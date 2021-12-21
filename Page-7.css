@@ -1,0 +1,28 @@
+.u-section-1 .u-image-1 {
+  min-height: 500px;
+  background-image: url("images/gaab6b8666b37073ddad19750b0170c8f83be7dc430d75d1eb97d6999486ddf81764b77d3b6d64816e57b14d036e9e73f_1280.png");
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    min-height: 412px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-image-1 {
+    min-height: 316px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    min-height: 237px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    min-height: 149px;
+  }
+}
