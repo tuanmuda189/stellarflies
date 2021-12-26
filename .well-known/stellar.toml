@@ -9,3 +9,14 @@ ORG_NAME="stellarflies"
 ORG_URL="https://www.stellarflies.com/"
 ORG_LOGO="https://www.stellarflies.com/images/stellarflies.png"
 ORG_DESCRIPTION="stellarflies.com Your Stellar Marketplace that makes you fly high!"
+
+[[CURRENCIES]]
+code="FLY"
+issuer="GBULORLSSGT2H2CDUNXC77KCUNYZH6UG7XGPYXBB65BO74ICXETVEMSF"
+status="live"
+display_decimals=4
+name="FLY"
+fixed_number=25000000000
+desc="FLY is issued by Eastellar Team."
+conditions="Maximum supply of FLY is 25B tokens only"
+image="https://eastellar.com/images/FLY.png"
