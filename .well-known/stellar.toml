@@ -20,3 +20,14 @@ fixed_number=30000000000
 desc="FLY is issued by Stellarflies Team."
 conditions="Maximum supply of FLY is 30B tokens only"
 image="https://Stellarflies.com/images/FLY.png"
+
+[[CURRENCIES]]
+code="BTC"
+issuer="GABBPMH6EFP4QXL36ZVMQKMVE24XLS2DD74P6H76RV4OANOHCRL247DZ"
+status="live"
+display_decimals=4
+name="BTC"
+fixed_number=30000000000
+desc="BTC is issued by Stellarflies Team."
+conditions="Maximum supply of BTC is 30B tokens only"
+image="https://Stellarflies.com/images/BTC.png"
