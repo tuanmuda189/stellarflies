@@ -31,3 +31,14 @@ fixed_number=30000000000
 desc="BTC is issued by Stellarflies Team."
 conditions="Maximum supply of BTC is 30B tokens only"
 image="https://Stellarflies.com/images/BTC.png"
+
+[[CURRENCIES]]
+code="TESLA"
+issuer="GCLZEWDBRNOIKXLRJTVNIMG4KT6PFJEVTJI5J4ZW3OQNYZ5XYFC6UHQP"
+status="live"
+display_decimals=4
+name="TESLA"
+fixed_number=30000000000
+desc="TESLA is issued by Stellarflies Team."
+conditions="Maximum supply of TESLA is 30B tokens only"
+image="https://Stellarflies.com/images/TESLA.png"
