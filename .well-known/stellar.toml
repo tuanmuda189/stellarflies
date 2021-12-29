@@ -42,3 +42,14 @@ fixed_number=30000000000
 desc="TESLA is issued by Stellarflies Team."
 conditions="Maximum supply of TESLA is 30B tokens only"
 image="https://Stellarflies.com/images/TESLA.png"
+
+[[CURRENCIES]]
+code="CHROME"
+issuer="GCOHDYA4EFGVC774CYL5KLEHTYKGTG3YNCWLTFBJDA2MYFJUG7V5GBME"
+status="live"
+display_decimals=4
+name="CHROME"
+fixed_number=30000000000
+desc="CHROME is issued by Stellarflies Team."
+conditions="Maximum supply of CHROME is 30B tokens only"
+image="https://Stellarflies.com/images/CHROME.png"
