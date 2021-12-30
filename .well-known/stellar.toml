@@ -53,3 +53,14 @@ fixed_number=30000000000
 desc="CHROME is issued by Stellarflies Team."
 conditions="Maximum supply of CHROME is 30B tokens only"
 image="https://Stellarflies.com/images/CHROME.png"
+
+[[CURRENCIES]]
+code="MICROSOFT"
+issuer="GA7TVOAH6DU5VF6KKN7YIW5IHXGFSRYPI5A524L7PNXAYHOHGLRMSRYP"
+status="live"
+display_decimals=4
+name="MICROSOFT"
+fixed_number=30000000000
+desc="MICROSOFT is issued by Stellarflies Team."
+conditions="Maximum supply of MICROSOFT is 30B tokens only"
+image="https://Stellarflies.com/images/MICROSOFT.png"
