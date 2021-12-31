@@ -64,3 +64,14 @@ fixed_number=30000000000
 desc="MICROSOFT is issued by Stellarflies Team."
 conditions="Maximum supply of MICROSOFT is 30B tokens only"
 image="https://Stellarflies.com/images/MICROSOFT.png"
+
+[[CURRENCIES]]
+code="APPLE"
+issuer="GDU7ESAX7EJQEHVLZPVFD4K6IVL2STSXOU2IRMZXB4RIWXE5DOMFWVZG"
+status="live"
+display_decimals=4
+name="APPLE"
+fixed_number=30000000000
+desc="APPLE is issued by Stellarflies Team."
+conditions="Maximum supply of APPLE is 30B tokens only"
+image="https://Stellarflies.com/images/APPLE.png"
