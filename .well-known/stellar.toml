@@ -75,3 +75,14 @@ fixed_number=30000000000
 desc="APPLE is issued by Stellarflies Team."
 conditions="Maximum supply of APPLE is 30B tokens only"
 image="https://Stellarflies.com/images/APPLE.png"
+
+[[CURRENCIES]]
+code="ASUS"
+issuer="GCUZLYEQK6MK2YOXC7HIZNMV4RWO43AYRBUU4MDH3MJQEJMVJZ2TJBUU"
+status="live"
+display_decimals=4
+name="ASUS"
+fixed_number=30000000000
+desc="ASUS is issued by Stellarflies Team."
+conditions="Maximum supply of ASUS is 30B tokens only"
+image="https://Stellarflies.com/images/ASUS.png"
