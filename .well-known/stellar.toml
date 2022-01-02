@@ -86,3 +86,14 @@ fixed_number=30000000000
 desc="ASUS is issued by Stellarflies Team."
 conditions="Maximum supply of ASUS is 30B tokens only"
 image="https://Stellarflies.com/images/ASUS.png"
+
+[[CURRENCIES]]
+code="SOL"
+issuer="GC7OYN6UXGPQAJNHNQVHGSQGHX3ZVF6UPGGKOACXKF5EAZ7TTGRRGZ6Q"
+status="live"
+display_decimals=4
+name="SOL"
+fixed_number=30000000000
+desc="SOL is issued by Stellarflies Team."
+conditions="Maximum supply of SOL is 30B tokens only"
+image="https://Stellarflies.com/images/SOL.png"
