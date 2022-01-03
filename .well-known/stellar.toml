@@ -97,3 +97,14 @@ fixed_number=30000000000
 desc="SOL is issued by Stellarflies Team."
 conditions="Maximum supply of SOL is 30B tokens only"
 image="https://Stellarflies.com/images/SOL.png"
+
+[[CURRENCIES]]
+code="HP"
+issuer="GDB6QEQEV4TWTJGADUSPLXR22UMLKRAJA44M4JGFBLQBKZ4IMI7K4BLH"
+status="live"
+display_decimals=4
+name="HP"
+fixed_number=30000000000
+desc="HP is issued by Stellarflies Team."
+conditions="Maximum supply of HP is 30B tokens only"
+image="https://Stellarflies.com/images/HP.png"
