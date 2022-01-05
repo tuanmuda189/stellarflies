@@ -119,3 +119,14 @@ fixed_number=30000000000
 desc="ETH is issued by Stellarflies Team."
 conditions="Maximum supply of ETH is 30B tokens only"
 image="https://Stellarflies.com/images/ETH.png"
+
+[[CURRENCIES]]
+code="ROG"
+issuer="GDAMKXIGPBC5FDAXI66N3WSMT5QYV6Y7M3ANPLWO5WVMUZJQFXGQYJAT"
+status="live"
+display_decimals=4
+name="ROG"
+fixed_number=30000000000
+desc="ROG is issued by Stellarflies Team."
+conditions="Maximum supply of ROG is 30B tokens only"
+image="https://Stellarflies.com/images/ROG.png"
