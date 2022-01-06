@@ -130,3 +130,14 @@ fixed_number=30000000000
 desc="ROG is issued by Stellarflies Team."
 conditions="Maximum supply of ROG is 30B tokens only"
 image="https://Stellarflies.com/images/ROG.png"
+
+[[CURRENCIES]]
+code="ADA"
+issuer="GBK7MRL6PPZSZ2V4NRESC5K5PWQF3LCCDBMC75OYCIVLIL2QTMYRAVJP"
+status="live"
+display_decimals=4
+name="ADA"
+fixed_number=30000000000
+desc="ADA is issued by Stellarflies Team."
+conditions="Maximum supply of ADA is 30B tokens only"
+image="https://Stellarflies.com/images/ADA.png"
