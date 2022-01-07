@@ -141,3 +141,14 @@ fixed_number=30000000000
 desc="ADA is issued by Stellarflies Team."
 conditions="Maximum supply of ADA is 30B tokens only"
 image="https://Stellarflies.com/images/ADA.png"
+
+[[CURRENCIES]]
+code="DELL"
+issuer="GBEHGJXNSALWYX5YTHF5KUKNZC7VWP7YD2AHPRAWIPKCDHYGTRKZ7THD"
+status="live"
+display_decimals=4
+name="DELL"
+fixed_number=30000000000
+desc="DELL is issued by Stellarflies Team."
+conditions="Maximum supply of DELL is 30B tokens only"
+image="https://Stellarflies.com/images/DELL.png"
