@@ -152,3 +152,14 @@ fixed_number=30000000000
 desc="DELL is issued by Stellarflies Team."
 conditions="Maximum supply of DELL is 30B tokens only"
 image="https://Stellarflies.com/images/DELL.png"
+
+[[CURRENCIES]]
+code="DOT"
+issuer="GDDFPXW23VPFSOE26SNPDTEQS6KFAKAQJ7RM4XGXJTOCKMTXG5752DPI"
+status="live"
+display_decimals=4
+name="DOT"
+fixed_number=30000000000
+desc="DOT is issued by Stellarflies Team."
+conditions="Maximum supply of DOT is 30B tokens only"
+image="https://Stellarflies.com/images/DOT.png"
