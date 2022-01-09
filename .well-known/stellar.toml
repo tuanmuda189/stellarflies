@@ -163,3 +163,14 @@ fixed_number=30000000000
 desc="DOT is issued by Stellarflies Team."
 conditions="Maximum supply of DOT is 30B tokens only"
 image="https://Stellarflies.com/images/DOT.png"
+
+[[CURRENCIES]]
+code="INTEL"
+issuer="GB6MHIDY6ONLF3AH6IMHALXW6FQYZVPWFOBGRQTXHKKSZ7HSIWZ6HSFB"
+status="live"
+display_decimals=4
+name="INTEL"
+fixed_number=30000000000
+desc="INTEL is issued by Stellarflies Team."
+conditions="Maximum supply of INTEL is 30B tokens only"
+image="https://Stellarflies.com/images/INTEL.png"
