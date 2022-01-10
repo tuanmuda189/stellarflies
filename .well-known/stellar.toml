@@ -174,3 +174,14 @@ fixed_number=30000000000
 desc="INTEL is issued by Stellarflies Team."
 conditions="Maximum supply of INTEL is 30B tokens only"
 image="https://Stellarflies.com/images/INTEL.png"
+
+[[CURRENCIES]]
+code="ALGO"
+issuer="GAOQOQSVJZN6QXASUAU3ECLT437UY7JMZUITA4NJTAKGMD262JSY2YTH"
+status="live"
+display_decimals=4
+name="ALGO"
+fixed_number=30000000000
+desc="ALGO is issued by Stellarflies Team."
+conditions="Maximum supply of ALGO is 30B tokens only"
+image="https://Stellarflies.com/images/ALGO.png"
