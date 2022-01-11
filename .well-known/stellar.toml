@@ -185,3 +185,14 @@ fixed_number=30000000000
 desc="ALGO is issued by Stellarflies Team."
 conditions="Maximum supply of ALGO is 30B tokens only"
 image="https://Stellarflies.com/images/ALGO.png"
+
+[[CURRENCIES]]
+code="FIREFOX"
+issuer="GB3E64ESLWU45PMTYUL53QS7PV3WKSPV4PNNPPEGC6ECKNZ5LSXYVAJO"
+status="live"
+display_decimals=4
+name="FIREFOX"
+fixed_number=30000000000
+desc="FIREFOX is issued by Stellarflies Team."
+conditions="Maximum supply of FIREFOX is 30B tokens only"
+image="https://Stellarflies.com/images/FIREFOX.png"
