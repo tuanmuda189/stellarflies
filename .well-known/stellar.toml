@@ -196,3 +196,14 @@ fixed_number=30000000000
 desc="FIREFOX is issued by Stellarflies Team."
 conditions="Maximum supply of FIREFOX is 30B tokens only"
 image="https://Stellarflies.com/images/FIREFOX.png"
+
+[[CURRENCIES]]
+code="USDT"
+issuer="GCTAGGXL3WKNOQAY73LIOHBXAWQNKKI2SWVZ4OOH7SBYILJK3U6XLBLG"
+status="live"
+display_decimals=4
+name="USDT"
+fixed_number=30000000000
+desc="USDT is issued by Stellarflies Team."
+conditions="Maximum supply of USDT is 30B tokens only"
+image="https://Stellarflies.com/images/USDT.png"
