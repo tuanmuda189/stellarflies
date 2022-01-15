@@ -207,3 +207,14 @@ fixed_number=30000000000
 desc="USDT is issued by Stellarflies Team."
 conditions="Maximum supply of USDT is 30B tokens only"
 image="https://Stellarflies.com/images/USDT.png"
+
+[[CURRENCIES]]
+code="BIRD"
+issuer="GBYNL2SKOFVSVBUS2B3EXKBL67MQJD7OHSCJFOH6KWFBMGWENVH5UMQT"
+status="live"
+display_decimals=4
+name="BIRD"
+fixed_number=30000000000
+desc="BIRD is issued by Stellarflies Team."
+conditions="Maximum supply of BIRD is 30B tokens only"
+image="https://Stellarflies.com/images/BIRD.png"
