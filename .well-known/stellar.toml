@@ -218,3 +218,14 @@ fixed_number=30000000000
 desc="BIRD is issued by Stellarflies Team."
 conditions="Maximum supply of BIRD is 30B tokens only"
 image="https://Stellarflies.com/images/BIRD.png"
+
+[[CURRENCIES]]
+code="NETFLIX"
+issuer="GBU5QJJG6LVD53XB7L3XBXNJX4SDUWXR4V2YRK77Z44W47TUBOWLQFTT"
+status="live"
+display_decimals=4
+name="NETFLIX"
+fixed_number=30000000000
+desc="NETFLIX is issued by Stellarflies Team."
+conditions="Maximum supply of NETFLIX is 30B tokens only"
+image="https://Stellarflies.com/images/NETFLIX.png"
