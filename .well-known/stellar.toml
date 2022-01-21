@@ -229,3 +229,14 @@ fixed_number=30000000000
 desc="NETFLIX is issued by Stellarflies Team."
 conditions="Maximum supply of NETFLIX is 30B tokens only"
 image="https://Stellarflies.com/images/NETFLIX.png"
+
+[[CURRENCIES]]
+code="QUALCOMM"
+issuer="GBFUR57W53UJRROXHJ63USSGDWSAGWPZSSWWRDHH3CFPVEPY63KL6S66"
+status="live"
+display_decimals=4
+name="QUALCOMM"
+fixed_number=30000000000
+desc="QUALCOMM is issued by Stellarflies Team."
+conditions="Maximum supply of QUALCOMM is 30B tokens only"
+image="https://Stellarflies.com/images/QUALCOMM.png"
