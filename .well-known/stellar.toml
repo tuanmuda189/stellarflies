@@ -240,3 +240,14 @@ fixed_number=30000000000
 desc="QUALCOMM is issued by Stellarflies Team."
 conditions="Maximum supply of QUALCOMM is 30B tokens only"
 image="https://Stellarflies.com/images/QUALCOMM.png"
+
+[[CURRENCIES]]
+code="AIRPLANE"
+issuer="GAHXCDHVJ2KCSAD6NL3ZKBXZXWQND5ACCBIQJQJDS5B46DPI2WO34J6I"
+status="live"
+display_decimals=4
+name="AIRPLANE"
+fixed_number=30000000000
+desc="AIRPLANE is issued by Stellarflies Team."
+conditions="Maximum supply of AIRPLANE is 30B tokens only"
+image="https://Stellarflies.com/images/AIRPLANE.png"
