@@ -251,3 +251,14 @@ fixed_number=30000000000
 desc="AIRPLANE is issued by Stellarflies Team."
 conditions="Maximum supply of AIRPLANE is 30B tokens only"
 image="https://Stellarflies.com/images/AIRPLANE.png"
+
+[[CURRENCIES]]
+code="KIN"
+issuer="GBKHS4G2SP72HLE3BMAMY7UAT6KIMA5XC2BINQVZY4PDOJL5HFD3Q37E"
+status="live"
+display_decimals=4
+name="KIN"
+fixed_number=30000000000
+desc="KIN is issued by Stellarflies Team."
+conditions="Maximum supply of KIN is 30B tokens only"
+image="https://Stellarflies.com/images/KIN.png"
