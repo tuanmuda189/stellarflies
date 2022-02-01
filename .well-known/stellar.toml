@@ -262,3 +262,14 @@ fixed_number=30000000000
 desc="KIN is issued by Stellarflies Team."
 conditions="Maximum supply of KIN is 30B tokens only"
 image="https://Stellarflies.com/images/KIN.png"
+
+[[CURRENCIES]]
+code="NEURALINK"
+issuer="GDWX6LGLAOCSRKTCDENTPRDZFTRNGXFE7NLZZVUTY3LFLPAATPDY6S4N"
+status="live"
+display_decimals=4
+name="NEURALINK"
+fixed_number=30000000000
+desc="NEURALINK is issued by Stellarflies Team."
+conditions="Maximum supply of NEURALINK is 30B tokens only"
+image="https://Stellarflies.com/images/NEURALINK.png"
