@@ -273,3 +273,14 @@ fixed_number=30000000000
 desc="NEURALINK is issued by Stellarflies Team."
 conditions="Maximum supply of NEURALINK is 30B tokens only"
 image="https://Stellarflies.com/images/NEURALINK.png"
+
+[[CURRENCIES]]
+code="METAMASK"
+issuer="GDZLD7QTU4MGHUZ4QKG6WI2IFVCWKSTNNHJFJI2A3XFQSKP7X6VAZX2G"
+status="live"
+display_decimals=4
+name="METAMASK"
+fixed_number=30000000000
+desc="METAMASK is issued by Stellarflies Team."
+conditions="Maximum supply of METAMASK is 30B tokens only"
+image="https://Stellarflies.com/images/METAMASK.png"
