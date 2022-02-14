@@ -284,3 +284,14 @@ fixed_number=30000000000
 desc="METAMASK is issued by Stellarflies Team."
 conditions="Maximum supply of METAMASK is 30B tokens only"
 image="https://Stellarflies.com/images/METAMASK.png"
+
+[[CURRENCIES]]
+code="SPOOKYSWAP"
+issuer="GBUV7RU3DJXKDPE7BKUSJEXGYA4W2EDZQMOEOIFMSQVO7NGPMBGSCREC"
+status="live"
+display_decimals=4
+name="SPOOKYSWAP"
+fixed_number=30000000000
+desc="SPOOKYSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of SPOOKYSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/SPOOKYSWAP.png"
