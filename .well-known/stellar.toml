@@ -295,3 +295,14 @@ fixed_number=30000000000
 desc="SPOOKYSWAP is issued by Stellarflies Team."
 conditions="Maximum supply of SPOOKYSWAP is 30B tokens only"
 image="https://Stellarflies.com/images/SPOOKYSWAP.png"
+
+[[CURRENCIES]]
+code="UNISWAP"
+issuer="GBBGBYISK2YAAD4EHEQUDVADJMEY2GSU3ZT5E7OSOHZ655RCU2CQXAUV"
+status="live"
+display_decimals=4
+name="UNISWAP"
+fixed_number=30000000000
+desc="UNISWAP is issued by Stellarflies Team."
+conditions="Maximum supply of UNISWAP is 30B tokens only"
+image="https://Stellarflies.com/images/UNISWAP.png"
