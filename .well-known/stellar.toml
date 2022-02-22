@@ -306,3 +306,14 @@ fixed_number=30000000000
 desc="UNISWAP is issued by Stellarflies Team."
 conditions="Maximum supply of UNISWAP is 30B tokens only"
 image="https://Stellarflies.com/images/UNISWAP.png"
+
+[[CURRENCIES]]
+code="CHAINLINK"
+issuer="GB6L6V3336NCS6QA6PUSRUVZKBRSJPATWBBLCWGOWMTIKNT45OHRW7P2"
+status="live"
+display_decimals=4
+name="CHAINLINK"
+fixed_number=30000000000
+desc="CHAINLINK is issued by Stellarflies Team."
+conditions="Maximum supply of CHAINLINK is 30B tokens only"
+image="https://Stellarflies.com/images/CHAINLINK.png"
