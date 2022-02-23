@@ -317,3 +317,14 @@ fixed_number=30000000000
 desc="CHAINLINK is issued by Stellarflies Team."
 conditions="Maximum supply of CHAINLINK is 30B tokens only"
 image="https://Stellarflies.com/images/CHAINLINK.png"
+
+[[CURRENCIES]]
+code="FANTOM"
+issuer="GBL7ULYT5M24XK6DV4U2S35VPW7QIUONF55OCUNMDDMGACQV4QS2UKJD"
+status="live"
+display_decimals=4
+name="FANTOM"
+fixed_number=30000000000
+desc="FANTOM is issued by Stellarflies Team."
+conditions="Maximum supply of FANTOM is 30B tokens only"
+image="https://Stellarflies.com/images/FANTOM.png"
