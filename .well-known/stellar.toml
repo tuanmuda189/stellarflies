@@ -340,3 +340,13 @@ desc="SUSHISWAP is issued by Stellarflies Team."
 conditions="Maximum supply of SUSHISWAP is 30B tokens only"
 image="https://Stellarflies.com/images/SUSHISWAP.png"
 
+[[CURRENCIES]]
+code="LUNA"
+issuer="GAWYZHL2EI3YAS6FHI6SEM62KXIFDGFANGZ2OTJX4JK6EDRG5NDG35R6"
+status="live"
+display_decimals=4
+name="LUNA"
+fixed_number=30000000000
+desc="LUNA is issued by Stellarflies Team."
+conditions="Maximum supply of LUNA is 30B tokens only"
+image="https://Stellarflies.com/images/LUNA.png"
