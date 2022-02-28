@@ -350,3 +350,14 @@ fixed_number=30000000000
 desc="LUNA is issued by Stellarflies Team."
 conditions="Maximum supply of LUNA is 30B tokens only"
 image="https://Stellarflies.com/images/LUNA.png"
+
+[[CURRENCIES]]
+code="CURVE"
+issuer="GBO3ENTGNSPB575XHUYJANBVMFWGR74PCPFDSKFNDEWMKSP5WQFWWIDP"
+status="live"
+display_decimals=4
+name="CURVE"
+fixed_number=30000000000
+desc="CURVE is issued by Stellarflies Team."
+conditions="Maximum supply of CURVE is 30B tokens only"
+image="https://Stellarflies.com/images/CURVE.png"
