@@ -361,3 +361,14 @@ fixed_number=30000000000
 desc="CURVE is issued by Stellarflies Team."
 conditions="Maximum supply of CURVE is 30B tokens only"
 image="https://Stellarflies.com/images/CURVE.png"
+
+[[CURRENCIES]]
+code="OSMOSIS"
+issuer="GBUIXSGKGEJDULIFE4POPZAEASMYCMDKQFHPLHYYV3WXU27CS3LA7VHF"
+status="live"
+display_decimals=4
+name="OSMOSIS"
+fixed_number=30000000000
+desc="OSMOSIS is issued by Stellarflies Team."
+conditions="Maximum supply of OSMOSIS is 30B tokens only"
+image="https://Stellarflies.com/images/OSMOSIS.png"
