@@ -372,3 +372,14 @@ fixed_number=30000000000
 desc="OSMOSIS is issued by Stellarflies Team."
 conditions="Maximum supply of OSMOSIS is 30B tokens only"
 image="https://Stellarflies.com/images/OSMOSIS.png"
+
+[[CURRENCIES]]
+code="SECRET"
+issuer="GD2GO2CNJWHHZNJLUR54AV4RJ3OTJAOTEE4YHMRTBP7IJW5IF6H3M32U"
+status="live"
+display_decimals=4
+name="SECRET"
+fixed_number=30000000000
+desc="SECRET is issued by Stellarflies Team."
+conditions="Maximum supply of SECRET is 30B tokens only"
+image="https://Stellarflies.com/images/SECRET.png"
