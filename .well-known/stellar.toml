@@ -383,3 +383,14 @@ fixed_number=30000000000
 desc="SECRET is issued by Stellarflies Team."
 conditions="Maximum supply of SECRET is 30B tokens only"
 image="https://Stellarflies.com/images/SECRET.png"
+
+[[CURRENCIES]]
+code="SPIRITSWAP"
+issuer="GAU7EYUDNKDCW4Y2UCSLQOS6PLIWBT67GMBLG6B66BJSAO4UO4TNRBBI"
+status="live"
+display_decimals=4
+name="SPIRITSWAP"
+fixed_number=30000000000
+desc="SPIRITSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of SPIRITSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/SPIRITSWAP.png"
