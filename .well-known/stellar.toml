@@ -394,3 +394,14 @@ fixed_number=30000000000
 desc="SPIRITSWAP is issued by Stellarflies Team."
 conditions="Maximum supply of SPIRITSWAP is 30B tokens only"
 image="https://Stellarflies.com/images/SPIRITSWAP.png"
+
+[[CURRENCIES]]
+code="1INCH"
+issuer="GCUMUYEBGHCFDGQBKGW74T3V2OXK3UB25REZP4ASKWNEQJN3YJE6T4Z6"
+status="live"
+display_decimals=4
+name="1INCH"
+fixed_number=30000000000
+desc="1INCH is issued by Stellarflies Team."
+conditions="Maximum supply of 1INCH is 30B tokens only"
+image="https://Stellarflies.com/images/1INCH.png"
