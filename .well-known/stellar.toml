@@ -416,3 +416,14 @@ fixed_number=30000000000
 desc="SWAPR is issued by Stellarflies Team."
 conditions="Maximum supply of SWAPR is 30B tokens only"
 image="https://Stellarflies.com/images/SWAPR.png"
+
+[[CURRENCIES]]
+code="SERUMDEX"
+issuer="GB6IHDBUS3NAPE35ZSV2YD7RJBTRLGHGCVRPLTCM4T2YARUTM5DGXNFG"
+status="live"
+display_decimals=4
+name="SERUMDEX"
+fixed_number=30000000000
+desc="SERUMDEX is issued by Stellarflies Team."
+conditions="Maximum supply of SERUMDEX is 30B tokens only"
+image="https://Stellarflies.com/images/SERUMDEX.png"
