@@ -405,3 +405,14 @@ fixed_number=30000000000
 desc="1INCH is issued by Stellarflies Team."
 conditions="Maximum supply of 1INCH is 30B tokens only"
 image="https://Stellarflies.com/images/1INCH.png"
+
+[[CURRENCIES]]
+code="SWAPR"
+issuer="GDX6LOQJJK6LYYB57IPE7B4JGAEH33QWFWMAMSCBTY2MPFHEN7U34SR7"
+status="live"
+display_decimals=4
+name="SWAPR"
+fixed_number=30000000000
+desc="SWAPR is issued by Stellarflies Team."
+conditions="Maximum supply of SWAPR is 30B tokens only"
+image="https://Stellarflies.com/images/SWAPR.png"
