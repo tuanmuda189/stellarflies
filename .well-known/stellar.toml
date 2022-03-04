@@ -439,3 +439,13 @@ desc="DODO is issued by Stellarflies Team."
 conditions="Maximum supply of DODO is 30B tokens only"
 image="https://Stellarflies.com/images/DODO.png"
 
+[[CURRENCIES]]
+code="RAYDIUM"
+issuer="GCME3VVAVUWWTB754PRGYSBAIGEXTSZYMGKOOEVZADKO5PYXGBHYBGNK"
+status="live"
+display_decimals=4
+name="RAYDIUM"
+fixed_number=30000000000
+desc="RAYDIUM is issued by Stellarflies Team."
+conditions="Maximum supply of RAYDIUM is 30B tokens only"
+image="https://Stellarflies.com/images/RAYDIUM.png"
