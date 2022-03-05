@@ -449,3 +449,14 @@ fixed_number=30000000000
 desc="RAYDIUM is issued by Stellarflies Team."
 conditions="Maximum supply of RAYDIUM is 30B tokens only"
 image="https://Stellarflies.com/images/RAYDIUM.png"
+
+[[CURRENCIES]]
+code="BITCRATIC"
+issuer="GCUICXYSW7AK7KJDYZC4KTSGUNLXO72AXQMI2K46BTVYS3NXWHHY3G5U"
+status="live"
+display_decimals=4
+name="BITCRATIC"
+fixed_number=30000000000
+desc="BITCRATIC is issued by Stellarflies Team."
+conditions="Maximum supply of BITCRATIC is 30B tokens only"
+image="https://Stellarflies.com/images/BITCRATIC.png"
