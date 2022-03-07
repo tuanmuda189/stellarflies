@@ -471,3 +471,14 @@ fixed_number=30000000000
 desc="ASTROPORT is issued by Stellarflies Team."
 conditions="Maximum supply of ASTROPORT is 30B tokens only"
 image="https://Stellarflies.com/images/ASTROPORT.png"
+
+[[CURRENCIES]]
+code="TRADERJOE"
+issuer="GCCDBNED655IAHQ2ZLHZH5WEGGMMOECNJP24FYYZY7W5VUZ4322CUIDY"
+status="live"
+display_decimals=4
+name="TRADERJOE"
+fixed_number=30000000000
+desc="TRADERJOE is issued by Stellarflies Team."
+conditions="Maximum supply of TRADERJOE is 30B tokens only"
+image="https://Stellarflies.com/images/TRADERJOE.png"
