@@ -460,3 +460,14 @@ fixed_number=30000000000
 desc="BITCRATIC is issued by Stellarflies Team."
 conditions="Maximum supply of BITCRATIC is 30B tokens only"
 image="https://Stellarflies.com/images/BITCRATIC.png"
+
+[[CURRENCIES]]
+code="ASTROPORT"
+issuer="GAN5E6EZBUB32XLVOUM3NZGKC5CKTQWBRSFHQHEICYEDHQF33BBE5OZM"
+status="live"
+display_decimals=4
+name="ASTROPORT"
+fixed_number=30000000000
+desc="ASTROPORT is issued by Stellarflies Team."
+conditions="Maximum supply of ASTROPORT is 30B tokens only"
+image="https://Stellarflies.com/images/ASTROPORT.png"
