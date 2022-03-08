@@ -482,3 +482,14 @@ fixed_number=30000000000
 desc="TRADERJOE is issued by Stellarflies Team."
 conditions="Maximum supply of TRADERJOE is 30B tokens only"
 image="https://Stellarflies.com/images/TRADERJOE.png"
+
+[[CURRENCIES]]
+code="JUPITER"
+issuer="GAGVQ2NGMFNUDYVW45UI4L7XMC6PUE3HS5CNQQ6HBUAKFHFTRWU4LUQH"
+status="live"
+display_decimals=4
+name="JUPITER"
+fixed_number=30000000000
+desc="JUPITER is issued by Stellarflies Team."
+conditions="Maximum supply of JUPITER is 30B tokens only"
+image="https://Stellarflies.com/images/JUPITER.png"
