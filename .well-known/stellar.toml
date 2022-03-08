@@ -493,3 +493,14 @@ fixed_number=30000000000
 desc="JUPITER is issued by Stellarflies Team."
 conditions="Maximum supply of JUPITER is 30B tokens only"
 image="https://Stellarflies.com/images/JUPITER.png"
+
+[[CURRENCIES]]
+code="BISWAP"
+issuer="GAKHM5G42NZTDQDHGK6U2TFZWL5UP6X2LB7JDLDG3XE3U3YLNAP7B4C7"
+status="live"
+display_decimals=4
+name="BISWAP"
+fixed_number=30000000000
+desc="BISWAP is issued by Stellarflies Team."
+conditions="Maximum supply of BISWAP is 30B tokens only"
+image="https://Stellarflies.com/images/BISWAP.png"
