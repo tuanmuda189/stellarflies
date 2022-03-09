@@ -504,3 +504,14 @@ fixed_number=30000000000
 desc="BISWAP is issued by Stellarflies Team."
 conditions="Maximum supply of BISWAP is 30B tokens only"
 image="https://Stellarflies.com/images/BISWAP.png"
+
+[[CURRENCIES]]
+code="BEETHOVEN"
+issuer="GDPRFHA7O24BK2EL3LVBJGF7MSO2WKNT3FDIBLSBLI4BUUFO7TXY2ZZY"
+status="live"
+display_decimals=4
+name="BEETHOVEN"
+fixed_number=30000000000
+desc="BEETHOVEN is issued by Stellarflies Team."
+conditions="Maximum supply of BEETHOVEN is 30B tokens only"
+image="https://Stellarflies.com/images/BEETHOVEN.png"
