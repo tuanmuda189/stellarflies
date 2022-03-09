@@ -515,3 +515,14 @@ fixed_number=30000000000
 desc="BEETHOVEN is issued by Stellarflies Team."
 conditions="Maximum supply of BEETHOVEN is 30B tokens only"
 image="https://Stellarflies.com/images/BEETHOVEN.png"
+
+[[CURRENCIES]]
+code="KATANA"
+issuer="GCNWIPRJ74H5NIDELVRQMGZGYQM3JWM7AOTHPSKLCCDCGHGYW63EX5Z3"
+status="live"
+display_decimals=4
+name="KATANA"
+fixed_number=30000000000
+desc="KATANA is issued by Stellarflies Team."
+conditions="Maximum supply of KATANA is 30B tokens only"
+image="https://Stellarflies.com/images/KATANA.png"
