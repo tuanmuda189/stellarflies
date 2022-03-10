@@ -537,3 +537,14 @@ fixed_number=30000000000
 desc="TERRASWAP is issued by Stellarflies Team."
 conditions="Maximum supply of TERRASWAP is 30B tokens only"
 image="https://Stellarflies.com/images/TERRASWAP.png"
+
+[[CURRENCIES]]
+code="KUSWAP"
+issuer="GC7G64UO273B6JEH3RZVQHT4SZFXSUMOVDVA7IUYJRJAEVTE6OP3DE32"
+status="live"
+display_decimals=4
+name="KUSWAP"
+fixed_number=30000000000
+desc="KUSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of KUSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/KUSWAP.png"
