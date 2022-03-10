@@ -526,3 +526,14 @@ fixed_number=30000000000
 desc="KATANA is issued by Stellarflies Team."
 conditions="Maximum supply of KATANA is 30B tokens only"
 image="https://Stellarflies.com/images/KATANA.png"
+
+[[CURRENCIES]]
+code="TERRASWAP"
+issuer="GAXDYUQ37PBDMBIP37HANC7BLXORRN3FOBBT3FCZYOZCYR2QMOOPWBIA"
+status="live"
+display_decimals=4
+name="TERRASWAP"
+fixed_number=30000000000
+desc="TERRASWAP is issued by Stellarflies Team."
+conditions="Maximum supply of TERRASWAP is 30B tokens only"
+image="https://Stellarflies.com/images/TERRASWAP.png"
