@@ -548,3 +548,14 @@ fixed_number=30000000000
 desc="KUSWAP is issued by Stellarflies Team."
 conditions="Maximum supply of KUSWAP is 30B tokens only"
 image="https://Stellarflies.com/images/KUSWAP.png"
+
+[[CURRENCIES]]
+code="QUICKSWAP"
+issuer="GDTTKYLGKHQYFBNATE5P6YS4FXD3DF5EUPI2K76QH73LLNUMCNWQDZCF"
+status="live"
+display_decimals=4
+name="QUICKSWAP"
+fixed_number=30000000000
+desc="QUICKSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of QUICKSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/QUICKSWAP.png"
