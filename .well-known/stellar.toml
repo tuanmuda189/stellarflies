@@ -570,3 +570,15 @@ fixed_number=30000000000
 desc="BALANCER is issued by Stellarflies Team."
 conditions="Maximum supply of BALANCER is 30B tokens only"
 image="https://Stellarflies.com/images/BALANCER.png"
+
+[[CURRENCIES]]
+code="MMFINANCE"
+issuer="GDTWRDEMMYMFYGQQ2EBCLADU47JF6NZVLYS3FWPRK7AKHZSAOBU6ZB7B"
+status="live"
+display_decimals=4
+name="MMFINANCE"
+fixed_number=30000000000
+desc="MMFINANCE is issued by Stellarflies Team."
+conditions="Maximum supply of MMFINANCE is 30B tokens only"
+image="https://Stellarflies.com/images/MMFINANCE.png"
+
