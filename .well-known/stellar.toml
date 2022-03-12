@@ -582,3 +582,13 @@ desc="MMFINANCE is issued by Stellarflies Team."
 conditions="Maximum supply of MMFINANCE is 30B tokens only"
 image="https://Stellarflies.com/images/MMFINANCE.png"
 
+[[CURRENCIES]]
+code="PANGOLIN"
+issuer="GC7XTLNYOJJ4OM5NCXAGFPK3C7CGVZV5FFM4S6LVI3RUEVETEBTKBDFR"
+status="live"
+display_decimals=4
+name="PANGOLIN"
+fixed_number=30000000000
+desc="PANGOLIN is issued by Stellarflies Team."
+conditions="Maximum supply of PANGOLIN is 30B tokens only"
+image="https://Stellarflies.com/images/PANGOLIN.png"
