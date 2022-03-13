@@ -592,3 +592,14 @@ fixed_number=30000000000
 desc="PANGOLIN is issued by Stellarflies Team."
 conditions="Maximum supply of PANGOLIN is 30B tokens only"
 image="https://Stellarflies.com/images/PANGOLIN.png"
+
+[[CURRENCIES]]
+code="THORCHAIN"
+issuer="GC5KZAXO67QIAXHFXZM6OWI6OP5W426VW3ULATCODNVKGJ4UQ76GKWTF"
+status="live"
+display_decimals=4
+name="THORCHAIN"
+fixed_number=30000000000
+desc="THORCHAIN is issued by Stellarflies Team."
+conditions="Maximum supply of THORCHAIN is 30B tokens only"
+image="https://Stellarflies.com/images/THORCHAIN.png"
