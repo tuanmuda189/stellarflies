@@ -614,3 +614,14 @@ fixed_number=30000000000
 desc="SHIBASWAP is issued by Stellarflies Team."
 conditions="Maximum supply of SHIBASWAP is 30B tokens only"
 image="https://Stellarflies.com/images/SHIBASWAP.png"
+
+[[CURRENCIES]]
+code="TRISOLARIS"
+issuer="GBT6WJNDXYX4SJGZHSIJ7QA7CMQKPEOO5RUDB246EC6U4Y6PCA5G3EV2"
+status="live"
+display_decimals=4
+name="TRISOLARIS"
+fixed_number=30000000000
+desc="TRISOLARIS is issued by Stellarflies Team."
+conditions="Maximum supply of TRISOLARIS is 30B tokens only"
+image="https://Stellarflies.com/images/TRISOLARIS.png"
