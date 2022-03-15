@@ -636,3 +636,14 @@ fixed_number=30000000000
 desc="TETHYS is issued by Stellarflies Team."
 conditions="Maximum supply of TETHYS is 30B tokens only"
 image="https://Stellarflies.com/images/TETHYS.png"
+
+[[CURRENCIES]]
+code="NETSWAP"
+issuer="GBQJIS552DTWH4KFEFEOMYYYDBKZDKIE3WPSPVXVLUTK6VZRLLCPVFMY"
+status="live"
+display_decimals=4
+name="NETSWAP"
+fixed_number=30000000000
+desc="NETSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of NETSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/NETSWAP.png"
