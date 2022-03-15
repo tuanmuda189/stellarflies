@@ -625,3 +625,14 @@ fixed_number=30000000000
 desc="TRISOLARIS is issued by Stellarflies Team."
 conditions="Maximum supply of TRISOLARIS is 30B tokens only"
 image="https://Stellarflies.com/images/TRISOLARIS.png"
+
+[[CURRENCIES]]
+code="TETHYS"
+issuer="GDLFIJ62EMFYRSYAYYOYYVOTNVGBOC44LSU4VRDUMNMZOCRPPJ5I4LUH"
+status="live"
+display_decimals=4
+name="TETHYS"
+fixed_number=30000000000
+desc="TETHYS is issued by Stellarflies Team."
+conditions="Maximum supply of TETHYS is 30B tokens only"
+image="https://Stellarflies.com/images/TETHYS.png"
