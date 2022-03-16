@@ -647,3 +647,14 @@ fixed_number=30000000000
 desc="NETSWAP is issued by Stellarflies Team."
 conditions="Maximum supply of NETSWAP is 30B tokens only"
 image="https://Stellarflies.com/images/NETSWAP.png"
+
+[[CURRENCIES]]
+code="TOMBSWAP"
+issuer="GBIHCEHF353GK7DSH4TYSKVG7TCB3E5PTJ42PXADJJH6QMNPKR5VSHC4"
+status="live"
+display_decimals=4
+name="TOMBSWAP"
+fixed_number=30000000000
+desc="TOMBSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of TOMBSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/TOMBSWAP.png"
