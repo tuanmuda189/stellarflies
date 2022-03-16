@@ -658,3 +658,14 @@ fixed_number=30000000000
 desc="TOMBSWAP is issued by Stellarflies Team."
 conditions="Maximum supply of TOMBSWAP is 30B tokens only"
 image="https://Stellarflies.com/images/TOMBSWAP.png"
+
+[[CURRENCIES]]
+code="SABER"
+issuer="GDGOT2LMBSR2M66XIZ6HDILLYKY7QSRR3FVD2V3XITRETXRYVH4O2RCB"
+status="live"
+display_decimals=4
+name="SABER"
+fixed_number=30000000000
+desc="SABER is issued by Stellarflies Team."
+conditions="Maximum supply of SABER is 30B tokens only"
+image="https://Stellarflies.com/images/SABER.png"
