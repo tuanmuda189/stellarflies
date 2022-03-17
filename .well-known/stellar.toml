@@ -669,3 +669,14 @@ fixed_number=30000000000
 desc="SABER is issued by Stellarflies Team."
 conditions="Maximum supply of SABER is 30B tokens only"
 image="https://Stellarflies.com/images/SABER.png"
+
+[[CURRENCIES]]
+code="VVS"
+issuer="GAQ7VLPKB3GWOIB7TFYZBDUNUV3664JFFVPTFJXN4WZ2FVCQE74JKAT3"
+status="live"
+display_decimals=4
+name="VVS"
+fixed_number=30000000000
+desc="VVS is issued by Stellarflies Team."
+conditions="Maximum supply of VVS is 30B tokens only"
+image="https://Stellarflies.com/images/VVS.png"
