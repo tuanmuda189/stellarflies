@@ -680,3 +680,14 @@ fixed_number=30000000000
 desc="VVS is issued by Stellarflies Team."
 conditions="Maximum supply of VVS is 30B tokens only"
 image="https://Stellarflies.com/images/VVS.png"
+
+[[CURRENCIES]]
+code="APESWAP"
+issuer="GDA75XSCUKS3WXZ34TTK6GSLTHAOXF3SQD6IDUHJLP3HDRI5H75MRAID"
+status="live"
+display_decimals=4
+name="APESWAP"
+fixed_number=30000000000
+desc="APESWAP is issued by Stellarflies Team."
+conditions="Maximum supply of APESWAP is 30B tokens only"
+image="https://Stellarflies.com/images/APESWAP.png"
