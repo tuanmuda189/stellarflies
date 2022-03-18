@@ -702,14 +702,3 @@ fixed_number=30000000000
 desc="BANCOR is issued by Stellarflies Team."
 conditions="Maximum supply of BANCOR is 30B tokens only"
 image="https://Stellarflies.com/images/BANCOR.png"
-
-[[CURRENCIES]]
-code="TUCKER"
-issuer="GDW2IF2NZGJLNLTB7Q2XFFIPHRAVWL67FNOFE2C5PXGCZTEXSEZFSAS7"
-status="live"
-display_decimals=4
-name="TUCKER"
-fixed_number=30000000000
-desc="TUCKER is issued by Stellarflies Team."
-conditions="Maximum supply of TUCKER is 30B tokens only"
-image="https://Stellarflies.com/images/TUCKER.png"
