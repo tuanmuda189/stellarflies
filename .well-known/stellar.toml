@@ -691,3 +691,14 @@ fixed_number=30000000000
 desc="APESWAP is issued by Stellarflies Team."
 conditions="Maximum supply of APESWAP is 30B tokens only"
 image="https://Stellarflies.com/images/APESWAP.png"
+
+[[CURRENCIES]]
+code="BANCOR"
+issuer="GCX35AVFD2ZF4UTPZLYRRU5N3UBE3GZYZMF6MYASCFDM7A6E5N7RQ5HA"
+status="live"
+display_decimals=4
+name="BANCOR"
+fixed_number=30000000000
+desc="BANCOR is issued by Stellarflies Team."
+conditions="Maximum supply of BANCOR is 30B tokens only"
+image="https://Stellarflies.com/images/BANCOR.png"
