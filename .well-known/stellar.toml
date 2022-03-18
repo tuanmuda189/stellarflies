@@ -702,3 +702,14 @@ fixed_number=30000000000
 desc="BANCOR is issued by Stellarflies Team."
 conditions="Maximum supply of BANCOR is 30B tokens only"
 image="https://Stellarflies.com/images/BANCOR.png"
+
+[[CURRENCIES]]
+code="APOLLOX"
+issuer="GBDSFIXDY7ICGQ6POPFMTKFCNEZ3N2UR2XD5T3LJ2UVKUNZUITISFBEX"
+status="live"
+display_decimals=4
+name="APOLLOX"
+fixed_number=30000000000
+desc="APOLLOX is issued by Stellarflies Team."
+conditions="Maximum supply of APOLLOX is 30B tokens only"
+image="https://Stellarflies.com/images/APOLLOX.png"
