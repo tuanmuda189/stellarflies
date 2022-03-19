@@ -713,3 +713,14 @@ fixed_number=30000000000
 desc="APOLLOX is issued by Stellarflies Team."
 conditions="Maximum supply of APOLLOX is 30B tokens only"
 image="https://Stellarflies.com/images/APOLLOX.png"
+
+[[CURRENCIES]]
+code="DFX"
+issuer="GC4VTTRQL5XM2BS5KN66ILD3FFIADZV6K2S3FUBXZ5BKACQOSFRYOVJY"
+status="live"
+display_decimals=4
+name="DFX"
+fixed_number=30000000000
+desc="DFX is issued by Stellarflies Team."
+conditions="Maximum supply of DFX is 30B tokens only"
+image="https://Stellarflies.com/images/DFX.png"
