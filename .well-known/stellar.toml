@@ -724,3 +724,14 @@ fixed_number=30000000000
 desc="DFX is issued by Stellarflies Team."
 conditions="Maximum supply of DFX is 30B tokens only"
 image="https://Stellarflies.com/images/DFX.png"
+
+[[CURRENCIES]]
+code="DERI"
+issuer="GATGSLCR5ALIZZUA2J2O2Z6EUDSLNRROX6QH7DWB5RU2H4DCFXOYVDWD"
+status="live"
+display_decimals=4
+name="DERI"
+fixed_number=30000000000
+desc="DERI is issued by Stellarflies Team."
+conditions="Maximum supply of DERI is 30B tokens only"
+image="https://Stellarflies.com/images/DERI.png"
