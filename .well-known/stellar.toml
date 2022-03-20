@@ -735,3 +735,14 @@ fixed_number=30000000000
 desc="DERI is issued by Stellarflies Team."
 conditions="Maximum supply of DERI is 30B tokens only"
 image="https://Stellarflies.com/images/DERI.png"
+
+[[CURRENCIES]]
+code="DRIFT"
+issuer="GDWYFRGHSGUOERCUNTYACMSTRRD2B3TZROR3ZFRIPT4CCEKTMZDJODU3"
+status="live"
+display_decimals=4
+name="DRIFT"
+fixed_number=30000000000
+desc="DRIFT is issued by Stellarflies Team."
+conditions="Maximum supply of DRIFT is 30B tokens only"
+image="https://Stellarflies.com/images/DRIFT.png"
