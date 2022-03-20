@@ -746,3 +746,14 @@ fixed_number=30000000000
 desc="DRIFT is issued by Stellarflies Team."
 conditions="Maximum supply of DRIFT is 30B tokens only"
 image="https://Stellarflies.com/images/DRIFT.png"
+
+[[CURRENCIES]]
+code="INJECTIVE"
+issuer="GDBW4XYQDRIAP6Y5HR32BA4XNXAZJY4UMPQKOMLLAAWASCNKEDUO6IXR"
+status="live"
+display_decimals=4
+name="INJECTIVE"
+fixed_number=30000000000
+desc="INJECTIVE is issued by Stellarflies Team."
+conditions="Maximum supply of INJECTIVE is 30B tokens only"
+image="https://Stellarflies.com/images/INJECTIVE.png"
