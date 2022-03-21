@@ -769,3 +769,13 @@ desc="TOKENLON is issued by Stellarflies Team."
 conditions="Maximum supply of TOKENLON is 30B tokens only"
 image="https://Stellarflies.com/images/TOKENLON.png"
 
+[[CURRENCIES]]
+code="KINEPROTOCOL"
+issuer="GCVXEGXMDQWWIA742KOEUVAUQSOH2FSDYCFKGQP2J6V56L3SU53Z657S"
+status="live"
+display_decimals=4
+name="KINEPROTOCOL"
+fixed_number=30000000000
+desc="KINEPROTOCOL is issued by Stellarflies Team."
+conditions="Maximum supply of KINEPROTOCOL is 30B tokens only"
+image="https://Stellarflies.com/images/KINEPROTOCOL.png"
