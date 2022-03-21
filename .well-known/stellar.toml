@@ -757,3 +757,15 @@ fixed_number=30000000000
 desc="INJECTIVE is issued by Stellarflies Team."
 conditions="Maximum supply of INJECTIVE is 30B tokens only"
 image="https://Stellarflies.com/images/INJECTIVE.png"
+
+[[CURRENCIES]]
+code="TOKENLON"
+issuer="GBPAKNWCKT4JDD3CGH2CZ4LGDSK75X4P3MTH75KMH64BVKYBMAKIAIVK"
+status="live"
+display_decimals=4
+name="TOKENLON"
+fixed_number=30000000000
+desc="TOKENLON is issued by Stellarflies Team."
+conditions="Maximum supply of TOKENLON is 30B tokens only"
+image="https://Stellarflies.com/images/TOKENLON.png"
+
