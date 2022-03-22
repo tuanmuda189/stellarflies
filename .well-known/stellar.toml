@@ -779,3 +779,15 @@ fixed_number=30000000000
 desc="KINEPROTOCOL is issued by Stellarflies Team."
 conditions="Maximum supply of KINEPROTOCOL is 30B tokens only"
 image="https://Stellarflies.com/images/KINEPROTOCOL.png"
+
+[[CURRENCIES]]
+code="HONEYSWAP"
+issuer="GBKYJWKF2FHTHXA7CDOSN775X3O75IEEBXWDZLKIW3OMAT4IBWIJ73TD"
+status="live"
+display_decimals=4
+name="HONEYSWAP"
+fixed_number=30000000000
+desc="HONEYSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of HONEYSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/HONEYSWAP.png"
+
