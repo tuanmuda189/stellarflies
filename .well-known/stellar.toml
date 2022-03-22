@@ -791,3 +791,13 @@ desc="HONEYSWAP is issued by Stellarflies Team."
 conditions="Maximum supply of HONEYSWAP is 30B tokens only"
 image="https://Stellarflies.com/images/HONEYSWAP.png"
 
+[[CURRENCIES]]
+code="PERPETUAL"
+issuer="GDYUSPGYJNCIHNTMRFCU3PY66QMUPU5QSRAKSYKT4TGGE3DIQRQWD3OJ"
+status="live"
+display_decimals=4
+name="PERPETUAL"
+fixed_number=30000000000
+desc="PERPETUAL is issued by Stellarflies Team."
+conditions="Maximum supply of PERPETUAL is 30B tokens only"
+image="https://Stellarflies.com/images/PERPETUAL.png"
