@@ -801,3 +801,14 @@ fixed_number=30000000000
 desc="PERPETUAL is issued by Stellarflies Team."
 conditions="Maximum supply of PERPETUAL is 30B tokens only"
 image="https://Stellarflies.com/images/PERPETUAL.png"
+
+[[CURRENCIES]]
+code="OPENOCEAN"
+issuer="GCYLYXMY3BCZBCKA6O6DXLZUYHKWTVD34VUYBKTUPN6L2B6YAXHQ3BF2"
+status="live"
+display_decimals=4
+name="OPENOCEAN"
+fixed_number=30000000000
+desc="OPENOCEAN is issued by Stellarflies Team."
+conditions="Maximum supply of OPENOCEAN is 30B tokens only"
+image="https://Stellarflies.com/images/OPENOCEAN.png"
