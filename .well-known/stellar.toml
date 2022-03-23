@@ -812,3 +812,14 @@ fixed_number=30000000000
 desc="OPENOCEAN is issued by Stellarflies Team."
 conditions="Maximum supply of OPENOCEAN is 30B tokens only"
 image="https://Stellarflies.com/images/OPENOCEAN.png"
+
+[[CURRENCIES]]
+code="MAIAR"
+issuer="GDPWPINAVCWZXGFTPZLS65P5R2OPHSCT3MWITNF6RBMTE47ZGZCIOHH4"
+status="live"
+display_decimals=4
+name="MAIAR"
+fixed_number=30000000000
+desc="MAIAR is issued by Stellarflies Team."
+conditions="Maximum supply of MAIAR is 30B tokens only"
+image="https://Stellarflies.com/images/MAIAR.png"
