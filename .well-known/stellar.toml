@@ -834,3 +834,14 @@ fixed_number=30000000000
 desc="IDEX is issued by Stellarflies Team."
 conditions="Maximum supply of IDEX is 30B tokens only"
 image="https://Stellarflies.com/images/IDEX.png"
+
+[[CURRENCIES]]
+code="MDEX"
+issuer="GCWWO2TKCVIHBNE2SJGYDYPXMW5VL4Z5KNATGP6W35SB5DV2MLVV3UVI"
+status="live"
+display_decimals=4
+name="MDEX"
+fixed_number=30000000000
+desc="MDEX is issued by Stellarflies Team."
+conditions="Maximum supply of MDEX is 30B tokens only"
+image="https://Stellarflies.com/images/MDEX.png"
