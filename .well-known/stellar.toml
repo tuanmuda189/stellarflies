@@ -823,3 +823,14 @@ fixed_number=30000000000
 desc="MAIAR is issued by Stellarflies Team."
 conditions="Maximum supply of MAIAR is 30B tokens only"
 image="https://Stellarflies.com/images/MAIAR.png"
+
+[[CURRENCIES]]
+code="IDEX"
+issuer="GB357LR55V7SBZNLCILYNOWXA7M7SYOV3SO2SEVUEWENV52ZHZXCHSQZ"
+status="live"
+display_decimals=4
+name="IDEX"
+fixed_number=30000000000
+desc="IDEX is issued by Stellarflies Team."
+conditions="Maximum supply of IDEX is 30B tokens only"
+image="https://Stellarflies.com/images/IDEX.png"
