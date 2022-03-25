@@ -856,3 +856,14 @@ fixed_number=30000000000
 desc="STELLASWAP is issued by Stellarflies Team."
 conditions="Maximum supply of STELLASWAP is 30B tokens only"
 image="https://Stellarflies.com/images/STELLASWAP.png"
+
+[[CURRENCIES]]
+code="ALDRIN"
+issuer="GAV246IZEROPUFSSU7U3WA5OMUIWSOD4SJUY33WRFDPAVLRPHNA4V7AK"
+status="live"
+display_decimals=4
+name="ALDRIN"
+fixed_number=30000000000
+desc="ALDRIN is issued by Stellarflies Team."
+conditions="Maximum supply of ALDRIN is 30B tokens only"
+image="https://Stellarflies.com/images/ALDRIN.png"
