@@ -845,3 +845,14 @@ fixed_number=30000000000
 desc="MDEX is issued by Stellarflies Team."
 conditions="Maximum supply of MDEX is 30B tokens only"
 image="https://Stellarflies.com/images/MDEX.png"
+
+[[CURRENCIES]]
+code="STELLASWAP"
+issuer="GC6WAZIPYA5IRQCS7UND36CG2UPGVYNW4FCYSIGWYHCKCL2L56WO4PO3"
+status="live"
+display_decimals=4
+name="STELLASWAP"
+fixed_number=30000000000
+desc="STELLASWAP is issued by Stellarflies Team."
+conditions="Maximum supply of STELLASWAP is 30B tokens only"
+image="https://Stellarflies.com/images/STELLASWAP.png"
