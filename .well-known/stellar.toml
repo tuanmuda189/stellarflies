@@ -867,3 +867,14 @@ fixed_number=30000000000
 desc="ALDRIN is issued by Stellarflies Team."
 conditions="Maximum supply of ALDRIN is 30B tokens only"
 image="https://Stellarflies.com/images/ALDRIN.png"
+
+[[CURRENCIES]]
+code="DEVERSIFI"
+issuer="GCPHFZ7KQYSTQ5MZS7QFEVANCC5ZC74YDLHA525ZOLUPZT7T3X6K7EZA"
+status="live"
+display_decimals=4
+name="DEVERSIFI"
+fixed_number=30000000000
+desc="DEVERSIFI is issued by Stellarflies Team."
+conditions="Maximum supply of DEVERSIFI is 30B tokens only"
+image="https://Stellarflies.com/images/DEVERSIFI.png"
