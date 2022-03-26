@@ -878,3 +878,14 @@ fixed_number=30000000000
 desc="DEVERSIFI is issued by Stellarflies Team."
 conditions="Maximum supply of DEVERSIFI is 30B tokens only"
 image="https://Stellarflies.com/images/DEVERSIFI.png"
+
+[[CURRENCIES]]
+code="BEAMSWAP"
+issuer="GC7B6WXRWSTYN5Q7PG23YZ5HZTLAVFK56OXADWKOW5U2X3B3FJO2RMZB"
+status="live"
+display_decimals=4
+name="BEAMSWAP"
+fixed_number=30000000000
+desc="BEAMSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of BEAMSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/BEAMSWAP.png"
