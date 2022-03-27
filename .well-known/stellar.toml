@@ -889,3 +889,14 @@ fixed_number=30000000000
 desc="BEAMSWAP is issued by Stellarflies Team."
 conditions="Maximum supply of BEAMSWAP is 30B tokens only"
 image="https://Stellarflies.com/images/BEAMSWAP.png"
+
+[[CURRENCIES]]
+code="DYDX"
+issuer="GAOB2XQY6CUSRC6QEOT6IXUZ44KTWRZCEWDEGBSD5QJPT3T5Q2F2BY6W"
+status="live"
+display_decimals=4
+name="DYDX"
+fixed_number=30000000000
+desc="DYDX is issued by Stellarflies Team."
+conditions="Maximum supply of DYDX is 30B tokens only"
+image="https://Stellarflies.com/images/DYDX.png"
