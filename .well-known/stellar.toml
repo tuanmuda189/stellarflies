@@ -900,3 +900,14 @@ fixed_number=30000000000
 desc="DYDX is issued by Stellarflies Team."
 conditions="Maximum supply of DYDX is 30B tokens only"
 image="https://Stellarflies.com/images/DYDX.png"
+
+[[CURRENCIES]]
+code="REFFINANCE"
+issuer="GDYMQKWP57JHLKIOEW5V622K47A3EBLNYYPMJMONXHDGEEYDEU34QILK"
+status="live"
+display_decimals=4
+name="REFFINANCE"
+fixed_number=30000000000
+desc="REFFINANCE is issued by Stellarflies Team."
+conditions="Maximum supply of REFFINANCE is 30B tokens only"
+image="https://Stellarflies.com/images/REFFINANCE.png"
