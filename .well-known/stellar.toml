@@ -922,3 +922,14 @@ fixed_number=30000000000
 desc="BINANCE is issued by Stellarflies Team."
 conditions="Maximum supply of BINANCE is 30B tokens only"
 image="https://Stellarflies.com/images/BINANCE.png"
+
+[[CURRENCIES]]
+code="COINBASE"
+issuer="GDQCMZRUVEYCQXQ3Z5TDVSXROIH467P33FEOPRJMCPRV6LXHBLUXGGDM"
+status="live"
+display_decimals=4
+name="COINBASE"
+fixed_number=30000000000
+desc="COINBASE is issued by Stellarflies Team."
+conditions="Maximum supply of COINBASE is 30B tokens only"
+image="https://Stellarflies.com/images/COINBASE.png"
