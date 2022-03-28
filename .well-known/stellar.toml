@@ -911,3 +911,14 @@ fixed_number=30000000000
 desc="REFFINANCE is issued by Stellarflies Team."
 conditions="Maximum supply of REFFINANCE is 30B tokens only"
 image="https://Stellarflies.com/images/REFFINANCE.png"
+
+[[CURRENCIES]]
+code="BINANCE"
+issuer="GCAXTZVWWLEZBNGFAHUWLLTQOM2FJMS7DBVMAIANQREPKZ3V4PL3RRSS"
+status="live"
+display_decimals=4
+name="BINANCE"
+fixed_number=30000000000
+desc="BINANCE is issued by Stellarflies Team."
+conditions="Maximum supply of BINANCE is 30B tokens only"
+image="https://Stellarflies.com/images/BINANCE.png"
