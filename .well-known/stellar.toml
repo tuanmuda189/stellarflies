@@ -944,3 +944,14 @@ fixed_number=30000000000
 desc="KRAKEN is issued by Stellarflies Team."
 conditions="Maximum supply of KRAKEN is 30B tokens only"
 image="https://Stellarflies.com/images/KRAKEN.png"
+
+[[CURRENCIES]]
+code="FTX"
+issuer="GCQ5CAYC3G3RE24DHSO4TPNY6Z5L5WXKVC5OOJQPHCPEY4VIMA5PKBW6"
+status="live"
+display_decimals=4
+name="FTX"
+fixed_number=30000000000
+desc="FTX is issued by Stellarflies Team."
+conditions="Maximum supply of FTX is 30B tokens only"
+image="https://Stellarflies.com/images/FTX.png"
