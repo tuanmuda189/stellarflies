@@ -933,3 +933,14 @@ fixed_number=30000000000
 desc="COINBASE is issued by Stellarflies Team."
 conditions="Maximum supply of COINBASE is 30B tokens only"
 image="https://Stellarflies.com/images/COINBASE.png"
+
+[[CURRENCIES]]
+code="KRAKEN"
+issuer="GBGPAX4C2EH2ABWWP4MXH5MECPRKV3OXRMHZZOLY3YZMMEN4PXHUAWLU"
+status="live"
+display_decimals=4
+name="KRAKEN"
+fixed_number=30000000000
+desc="KRAKEN is issued by Stellarflies Team."
+conditions="Maximum supply of KRAKEN is 30B tokens only"
+image="https://Stellarflies.com/images/KRAKEN.png"
