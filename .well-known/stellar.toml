@@ -966,3 +966,14 @@ fixed_number=30000000000
 desc="HUOBI is issued by Stellarflies Team."
 conditions="Maximum supply of HUOBI is 30B tokens only"
 image="https://Stellarflies.com/images/HUOBI.png"
+
+[[CURRENCIES]]
+code="BYBIT"
+issuer="GDGBPI3ACTX6AZ64HZ5JQVMNZQU2NMK6PSM2XESNZU2GW4JQU3SO3FEZ"
+status="live"
+display_decimals=4
+name="BYBIT"
+fixed_number=30000000000
+desc="BYBIT is issued by Stellarflies Team."
+conditions="Maximum supply of BYBIT is 30B tokens only"
+image="https://Stellarflies.com/images/BYBIT.png"
