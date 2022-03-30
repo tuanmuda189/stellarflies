@@ -955,3 +955,14 @@ fixed_number=30000000000
 desc="FTX is issued by Stellarflies Team."
 conditions="Maximum supply of FTX is 30B tokens only"
 image="https://Stellarflies.com/images/FTX.png"
+
+[[CURRENCIES]]
+code="HUOBI"
+issuer="GCV4PN7OWOFXQ666KEXAH7OGQOO25SQECWFKMDZRPUMSRJJDAMOZRQTG"
+status="live"
+display_decimals=4
+name="HUOBI"
+fixed_number=30000000000
+desc="HUOBI is issued by Stellarflies Team."
+conditions="Maximum supply of HUOBI is 30B tokens only"
+image="https://Stellarflies.com/images/HUOBI.png"
