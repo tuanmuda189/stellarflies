@@ -977,3 +977,14 @@ fixed_number=30000000000
 desc="BYBIT is issued by Stellarflies Team."
 conditions="Maximum supply of BYBIT is 30B tokens only"
 image="https://Stellarflies.com/images/BYBIT.png"
+
+[[CURRENCIES]]
+code="KUCOIN"
+issuer="GDVLT6Z56NJNIL52GUU6T2JYERTLAO6PYNEWUJQHPIM3TJPQAC6LDPRQ"
+status="live"
+display_decimals=4
+name="KUCOIN"
+fixed_number=30000000000
+desc="KUCOIN is issued by Stellarflies Team."
+conditions="Maximum supply of KUCOIN is 30B tokens only"
+image="https://Stellarflies.com/images/KUCOIN.png"
