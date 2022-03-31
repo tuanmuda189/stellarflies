@@ -988,3 +988,14 @@ fixed_number=30000000000
 desc="KUCOIN is issued by Stellarflies Team."
 conditions="Maximum supply of KUCOIN is 30B tokens only"
 image="https://Stellarflies.com/images/KUCOIN.png"
+
+[[CURRENCIES]]
+code="BITFLYER"
+issuer="GDSZTYVYMVU4PBBKXQT4WR7FFUQF6GMQKIECPNC73TCENU6JNUXMJM4F"
+status="live"
+display_decimals=4
+name="BITFLYER"
+fixed_number=30000000000
+desc="BITFLYER is issued by Stellarflies Team."
+conditions="Maximum supply of BITFLYER is 30B tokens only"
+image="https://Stellarflies.com/images/BITFLYER.png"
