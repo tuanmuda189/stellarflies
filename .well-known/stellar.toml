@@ -999,3 +999,14 @@ fixed_number=30000000000
 desc="BITFLYER is issued by Stellarflies Team."
 conditions="Maximum supply of BITFLYER is 30B tokens only"
 image="https://Stellarflies.com/images/BITFLYER.png"
+
+[[CURRENCIES]]
+code="GEMINI"
+issuer="GBBKHHZJQRU6XZ3T5X3MCX5IDOQZDGYQPMMFLC4XWBATVRYHZYV43CFJ"
+status="live"
+display_decimals=4
+name="GEMINI"
+fixed_number=30000000000
+desc="GEMINI is issued by Stellarflies Team."
+conditions="Maximum supply of GEMINI is 30B tokens only"
+image="https://Stellarflies.com/images/GEMINI.png"
