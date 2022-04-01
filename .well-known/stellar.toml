@@ -1010,3 +1010,14 @@ fixed_number=30000000000
 desc="GEMINI is issued by Stellarflies Team."
 conditions="Maximum supply of GEMINI is 30B tokens only"
 image="https://Stellarflies.com/images/GEMINI.png"
+
+[[CURRENCIES]]
+code="BITSTAMP"
+issuer="GAVPZXJAVRJED32SCHI3BXUNCZYA5DGUHNL5EN45SSKLVD7LFRVOFRXD"
+status="live"
+display_decimals=4
+name="BITSTAMP"
+fixed_number=30000000000
+desc="BITSTAMP is issued by Stellarflies Team."
+conditions="Maximum supply of BITSTAMP is 30B tokens only"
+image="https://Stellarflies.com/images/BITSTAMP.png"
