@@ -1032,3 +1032,14 @@ fixed_number=30000000000
 desc="UPBIT is issued by Stellarflies Team."
 conditions="Maximum supply of UPBIT is 30B tokens only"
 image="https://Stellarflies.com/images/UPBIT.png"
+
+[[CURRENCIES]]
+code="BITFINEX"
+issuer="GB6UDKATP4WG75U5WMU7LBFAMOKNJXPEV7MXYKWZYJRJJ4ZAWHRXHLTW "
+status="live"
+display_decimals=4
+name="BITFINEX"
+fixed_number=30000000000
+desc="BITFINEX is issued by Stellarflies Team."
+conditions="Maximum supply of BITFINEX is 30B tokens only"
+image="https://Stellarflies.com/images/BITFINEX.png"
