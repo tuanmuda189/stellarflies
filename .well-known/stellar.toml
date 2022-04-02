@@ -1021,3 +1021,14 @@ fixed_number=30000000000
 desc="BITSTAMP is issued by Stellarflies Team."
 conditions="Maximum supply of BITSTAMP is 30B tokens only"
 image="https://Stellarflies.com/images/BITSTAMP.png"
+
+[[CURRENCIES]]
+code="UPBIT"
+issuer="GDOVWIGOLJ4E45D7PJ2JIVGA5T2LBJZVKZJTRAX7VEWA57B2CZISGKNY "
+status="live"
+display_decimals=4
+name="UPBIT"
+fixed_number=30000000000
+desc="UPBIT is issued by Stellarflies Team."
+conditions="Maximum supply of UPBIT is 30B tokens only"
+image="https://Stellarflies.com/images/UPBIT.png"
