@@ -1043,3 +1043,14 @@ fixed_number=30000000000
 desc="BITFINEX is issued by Stellarflies Team."
 conditions="Maximum supply of BITFINEX is 30B tokens only"
 image="https://Stellarflies.com/images/BITFINEX.png"
+
+[[CURRENCIES]]
+code="COINCHECK"
+issuer="GCHK5NDFIVVBNTIF7CM2XLM5BOVGPEHY5DILB22F3PTPLDX4R35Y6QRA"
+status="live"
+display_decimals=4
+name="COINCHECK"
+fixed_number=30000000000
+desc="COINCHECK is issued by Stellarflies Team."
+conditions="Maximum supply of COINCHECK is 30B tokens only"
+image="https://Stellarflies.com/images/COINCHECK.png"
