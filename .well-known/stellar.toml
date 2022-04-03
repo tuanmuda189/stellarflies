@@ -1054,3 +1054,14 @@ fixed_number=30000000000
 desc="COINCHECK is issued by Stellarflies Team."
 conditions="Maximum supply of COINCHECK is 30B tokens only"
 image="https://Stellarflies.com/images/COINCHECK.png"
+
+[[CURRENCIES]]
+code="BITHUMB"
+issuer="GCMITOOYMGM22MPBVIJLC6NHMHVGDCFXFAKMBZW7EM46THFP7JDZBREV"
+status="live"
+display_decimals=4
+name="BITHUMB"
+fixed_number=30000000000
+desc="BITHUMB is issued by Stellarflies Team."
+conditions="Maximum supply of BITHUMB is 30B tokens only"
+image="https://Stellarflies.com/images/BITHUMB.png"
