@@ -1065,3 +1065,14 @@ fixed_number=30000000000
 desc="BITHUMB is issued by Stellarflies Team."
 conditions="Maximum supply of BITHUMB is 30B tokens only"
 image="https://Stellarflies.com/images/BITHUMB.png"
+
+[[CURRENCIES]]
+code="FTXUS"
+issuer="GDWNB7EMRUSWNJCKP4KNXIKZ2A34ELGVGNYGJDBMOUN3NVJQTMNUOMN5"
+status="live"
+display_decimals=4
+name="FTXUS"
+fixed_number=30000000000
+desc="FTXUS is issued by Stellarflies Team."
+conditions="Maximum supply of FTXUS is 30B tokens only"
+image="https://Stellarflies.com/images/FTXUS.png"
