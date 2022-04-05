@@ -1087,3 +1087,14 @@ fixed_number=30000000000
 desc="MEXC is issued by Stellarflies Team."
 conditions="Maximum supply of MEXC is 30B tokens only"
 image="https://Stellarflies.com/images/MEXC.png"
+
+[[CURRENCIES]]
+code="OKX"
+issuer="GCLFZKAFFHCIOIFR52UT7SR7K67TGNW7XJB4BHONQRRGF4IWU4ZXPW72"
+status="live"
+display_decimals=4
+name="OKX"
+fixed_number=30000000000
+desc="OKX is issued by Stellarflies Team."
+conditions="Maximum supply of OKX is 30B tokens only"
+image="https://Stellarflies.com/images/OKX.png"
