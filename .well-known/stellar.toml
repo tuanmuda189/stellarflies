@@ -1076,3 +1076,14 @@ fixed_number=30000000000
 desc="FTXUS is issued by Stellarflies Team."
 conditions="Maximum supply of FTXUS is 30B tokens only"
 image="https://Stellarflies.com/images/FTXUS.png"
+
+[[CURRENCIES]]
+code="MEXC"
+issuer="GBOBK2UMB3R24T4Y46MQJC2D6DGP5IBUJ2YJEPPL2F376TUGVHSRIJ5K"
+status="live"
+display_decimals=4
+name="MEXC"
+fixed_number=30000000000
+desc="MEXC is issued by Stellarflies Team."
+conditions="Maximum supply of MEXC is 30B tokens only"
+image="https://Stellarflies.com/images/MEXC.png"
