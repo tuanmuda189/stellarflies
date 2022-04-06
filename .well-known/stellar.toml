@@ -1098,3 +1098,14 @@ fixed_number=30000000000
 desc="OKX is issued by Stellarflies Team."
 conditions="Maximum supply of OKX is 30B tokens only"
 image="https://Stellarflies.com/images/OKX.png"
+
+[[CURRENCIES]]
+code="POLONIEX"
+issuer="GDQJ2MW47KOCFR7DOM575UJ3BGJEORYHXFVGP5O5JPZXCJ24BQKD2OFA"
+status="live"
+display_decimals=4
+name="POLONIEX"
+fixed_number=30000000000
+desc="POLONIEX is issued by Stellarflies Team."
+conditions="Maximum supply of POLONIEX is 30B tokens only"
+image="https://Stellarflies.com/images/POLONIEX.png"
