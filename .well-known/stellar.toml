@@ -1109,3 +1109,14 @@ fixed_number=30000000000
 desc="POLONIEX is issued by Stellarflies Team."
 conditions="Maximum supply of POLONIEX is 30B tokens only"
 image="https://Stellarflies.com/images/POLONIEX.png"
+
+[[CURRENCIES]]
+code="COINONE"
+issuer="GD2HGDOPCYAEAQHCALWQJZR2BBRZS5SNP74HW6ECVOXTI64YND4FUFXD"
+status="live"
+display_decimals=4
+name="COINONE"
+fixed_number=30000000000
+desc="COINONE is issued by Stellarflies Team."
+conditions="Maximum supply of COINONE is 30B tokens only"
+image="https://Stellarflies.com/images/COINONE.png"
