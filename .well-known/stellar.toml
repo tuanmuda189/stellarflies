@@ -1131,3 +1131,14 @@ fixed_number=30000000000
 desc="LIQUID is issued by Stellarflies Team."
 conditions="Maximum supply of LIQUID is 30B tokens only"
 image="https://Stellarflies.com/images/LIQUID.png"
+
+[[CURRENCIES]]
+code="COINLISTPRO"
+issuer="GBSYZIUTYW7BBRUH375JJGCGKN56SIMDUG2NICU6EVDSEWVXEGV7LKFJ"
+status="live"
+display_decimals=4
+name="COINLISTPRO"
+fixed_number=30000000000
+desc="COINLISTPRO is issued by Stellarflies Team."
+conditions="Maximum supply of COINLISTPRO is 30B tokens only"
+image="https://Stellarflies.com/images/COINLISTPRO.png"
