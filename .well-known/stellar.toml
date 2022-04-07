@@ -1120,3 +1120,14 @@ fixed_number=30000000000
 desc="COINONE is issued by Stellarflies Team."
 conditions="Maximum supply of COINONE is 30B tokens only"
 image="https://Stellarflies.com/images/COINONE.png"
+
+[[CURRENCIES]]
+code="LIQUID"
+issuer="GA2ON3G2Y2Z2BHOXEBBD6ALA6L3XAFPXFMSBDYEEQFI2SHGJSCBTWDKU"
+status="live"
+display_decimals=4
+name="LIQUID"
+fixed_number=30000000000
+desc="LIQUID is issued by Stellarflies Team."
+conditions="Maximum supply of LIQUID is 30B tokens only"
+image="https://Stellarflies.com/images/LIQUID.png"
