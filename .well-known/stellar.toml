@@ -1164,3 +1164,15 @@ fixed_number=30000000000
 desc="BITTREX is issued by Stellarflies Team."
 conditions="Maximum supply of BITTREX is 30B tokens only"
 image="https://Stellarflies.com/images/BITTREX.png"
+
+[[CURRENCIES]]
+code="OKCOIN"
+issuer="GCIUW3HCINJBIOGBKN6BJXHROQNVQ75ZBQGU5VU2WMU6Y4AQLAESX6TI"
+status="live"
+display_decimals=4
+name="OKCOIN"
+fixed_number=30000000000
+desc="OKCOIN is issued by Stellarflies Team."
+conditions="Maximum supply of OKCOIN is 30B tokens only"
+image="https://Stellarflies.com/images/OKCOIN.png"
+
