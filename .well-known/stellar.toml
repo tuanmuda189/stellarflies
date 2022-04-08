@@ -1153,3 +1153,14 @@ fixed_number=30000000000
 desc="LBANK is issued by Stellarflies Team."
 conditions="Maximum supply of LBANK is 30B tokens only"
 image="https://Stellarflies.com/images/LBANK.png"
+
+[[CURRENCIES]]
+code="BITTREX"
+issuer="GAG3SQPAO2DEO2IYELFIXBHCFGEHYBP32ULAKUUHQXFJDH6MUCWPQ7VA"
+status="live"
+display_decimals=4
+name="BITTREX"
+fixed_number=30000000000
+desc="BITTREX is issued by Stellarflies Team."
+conditions="Maximum supply of BITTREX is 30B tokens only"
+image="https://Stellarflies.com/images/BITTREX.png"
