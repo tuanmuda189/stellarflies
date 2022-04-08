@@ -1142,3 +1142,14 @@ fixed_number=30000000000
 desc="COINLISTPRO is issued by Stellarflies Team."
 conditions="Maximum supply of COINLISTPRO is 30B tokens only"
 image="https://Stellarflies.com/images/COINLISTPRO.png"
+
+[[CURRENCIES]]
+code="LBANK"
+issuer="GCOSYLBCM7SVWOIWS3VR35ET7SAA75GAKKBZLRBUXCFOPSRYEV36JHXB"
+status="live"
+display_decimals=4
+name="LBANK"
+fixed_number=30000000000
+desc="LBANK is issued by Stellarflies Team."
+conditions="Maximum supply of LBANK is 30B tokens only"
+image="https://Stellarflies.com/images/LBANK.png"
