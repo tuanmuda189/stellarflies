@@ -1176,3 +1176,13 @@ desc="OKCOIN is issued by Stellarflies Team."
 conditions="Maximum supply of OKCOIN is 30B tokens only"
 image="https://Stellarflies.com/images/OKCOIN.png"
 
+[[CURRENCIES]]
+code="BINANCETR"
+issuer="GDEJGTKRBMCUWTEI53EQNXL34COVIM2WNOR6BYDJSV25HE7ZVJDZHOHQ"
+status="live"
+display_decimals=4
+name="BINANCETR"
+fixed_number=30000000000
+desc="BINANCETR is issued by Stellarflies Team."
+conditions="Maximum supply of BINANCETR is 30B tokens only"
+image="https://Stellarflies.com/images/BINANCETR.png"
