@@ -1186,3 +1186,14 @@ fixed_number=30000000000
 desc="BINANCETR is issued by Stellarflies Team."
 conditions="Maximum supply of BINANCETR is 30B tokens only"
 image="https://Stellarflies.com/images/BINANCETR.png"
+
+[[CURRENCIES]]
+code="ZAIF"
+issuer="GD2Y5SVD3VCFMGGH4O3KJOFEHW6ARRR5R4JNILHBAD3XIEKJGOI2KDAF"
+status="live"
+display_decimals=4
+name="ZAIF"
+fixed_number=30000000000
+desc="ZAIF is issued by Stellarflies Team."
+conditions="Maximum supply of ZAIF is 30B tokens only"
+image="https://Stellarflies.com/images/ZAIF.png"
