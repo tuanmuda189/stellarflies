@@ -1197,3 +1197,14 @@ fixed_number=30000000000
 desc="ZAIF is issued by Stellarflies Team."
 conditions="Maximum supply of ZAIF is 30B tokens only"
 image="https://Stellarflies.com/images/ZAIF.png"
+
+[[CURRENCIES]]
+code="KORBIT"
+issuer="GCYURQN6BQASSRWYQG5MJQRYIOEKWPSSVOULN7H3YRXQCCW2R2ECMW7R"
+status="live"
+display_decimals=4
+name="KORBIT"
+fixed_number=30000000000
+desc="KORBIT is issued by Stellarflies Team."
+conditions="Maximum supply of KORBIT is 30B tokens only"
+image="https://Stellarflies.com/images/KORBIT.png"
