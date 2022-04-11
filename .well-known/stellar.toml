@@ -1219,3 +1219,14 @@ fixed_number=30000000000
 desc="XTCOM is issued by Stellarflies Team."
 conditions="Maximum supply of XTCOM is 30B tokens only"
 image="https://Stellarflies.com/images/XTCOM.png"
+
+[[CURRENCIES]]
+code="WHITEBIT"
+issuer="GDMX7C2GO24YGFVQG4F4DMLEXZDVDGTOC6SM2EKB27TG3FBTBL4IH42F"
+status="live"
+display_decimals=4
+name="WHITEBIT"
+fixed_number=30000000000
+desc="WHITEBIT is issued by Stellarflies Team."
+conditions="Maximum supply of WHITEBIT is 30B tokens only"
+image="https://Stellarflies.com/images/WHITEBIT.png"
