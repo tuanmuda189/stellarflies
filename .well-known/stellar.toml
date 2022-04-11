@@ -1208,3 +1208,14 @@ fixed_number=30000000000
 desc="KORBIT is issued by Stellarflies Team."
 conditions="Maximum supply of KORBIT is 30B tokens only"
 image="https://Stellarflies.com/images/KORBIT.png"
+
+[[CURRENCIES]]
+code="XTCOM"
+issuer="GCTXWJQTTWGMH2PSFRDTPMM2HUCMHZ5JVTPYYTXPUEHLMWAAYR2YSWX3"
+status="live"
+display_decimals=4
+name="XTCOM"
+fixed_number=30000000000
+desc="XTCOM is issued by Stellarflies Team."
+conditions="Maximum supply of XTCOM is 30B tokens only"
+image="https://Stellarflies.com/images/XTCOM.png"
