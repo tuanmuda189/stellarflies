@@ -1242,3 +1242,13 @@ desc="DEEPCOIN is issued by Stellarflies Team."
 conditions="Maximum supply of DEEPCOIN is 30B tokens only"
 image="https://Stellarflies.com/images/DEEPCOIN.png"
 
+[[CURRENCIES]]
+code="CURRENCY"
+issuer="GCBYI53UMA637NGWEA2IMGESBGP7N4JWSJPZUBSF7GNUSUTBUMIRCGLK"
+status="live"
+display_decimals=4
+name="CURRENCY"
+fixed_number=30000000000
+desc="CURRENCY is issued by Stellarflies Team."
+conditions="Maximum supply of CURRENCY is 30B tokens only"
+image="https://Stellarflies.com/images/CURRENCY.png"
