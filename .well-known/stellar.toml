@@ -1230,3 +1230,15 @@ fixed_number=30000000000
 desc="WHITEBIT is issued by Stellarflies Team."
 conditions="Maximum supply of WHITEBIT is 30B tokens only"
 image="https://Stellarflies.com/images/WHITEBIT.png"
+
+[[CURRENCIES]]
+code="DEEPCOIN"
+issuer="GDTVAC3BPXDNL75J3I5BKXPUV6CNEZTRGOLISGPADH75Z6YY44C52PI5"
+status="live"
+display_decimals=4
+name="DEEPCOIN"
+fixed_number=30000000000
+desc="DEEPCOIN is issued by Stellarflies Team."
+conditions="Maximum supply of DEEPCOIN is 30B tokens only"
+image="https://Stellarflies.com/images/DEEPCOIN.png"
+
