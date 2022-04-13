@@ -1252,3 +1252,14 @@ fixed_number=30000000000
 desc="CURRENCY is issued by Stellarflies Team."
 conditions="Maximum supply of CURRENCY is 30B tokens only"
 image="https://Stellarflies.com/images/CURRENCY.png"
+
+[[CURRENCIES]]
+code="BLOCKCHAIN"
+issuer="GD4FKNEH4HLU24DXCKQ6VDNRRX4JO3ENFBVXBD6XBUFED7FWHBJZTGQC"
+status="live"
+display_decimals=4
+name="BLOCKCHAIN"
+fixed_number=30000000000
+desc="BLOCKCHAIN is issued by Stellarflies Team."
+conditions="Maximum supply of BLOCKCHAIN is 30B tokens only"
+image="https://Stellarflies.com/images/BLOCKCHAIN.png"
