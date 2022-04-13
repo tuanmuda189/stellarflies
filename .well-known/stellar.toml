@@ -1263,3 +1263,14 @@ fixed_number=30000000000
 desc="BLOCKCHAIN is issued by Stellarflies Team."
 conditions="Maximum supply of BLOCKCHAIN is 30B tokens only"
 image="https://Stellarflies.com/images/BLOCKCHAIN.png"
+
+[[CURRENCIES]]
+code="PROBIT"
+issuer="GB5P4CJ3SAJRCTNR36JCAACXWNCOQBPQ7OZGCGS4HPCTSOCMVVGVPOSC"
+status="live"
+display_decimals=4
+name="PROBIT"
+fixed_number=30000000000
+desc="PROBIT is issued by Stellarflies Team."
+conditions="Maximum supply of PROBIT is 30B tokens only"
+image="https://Stellarflies.com/images/PROBIT.png"
