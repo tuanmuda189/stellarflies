@@ -1274,3 +1274,14 @@ fixed_number=30000000000
 desc="PROBIT is issued by Stellarflies Team."
 conditions="Maximum supply of PROBIT is 30B tokens only"
 image="https://Stellarflies.com/images/PROBIT.png"
+
+[[CURRENCIES]]
+code="BITMAX"
+issuer="GBKPTPOBVQNY5YZHA7VT5QUVZRIHPENJQ3Z7I2D73BKVEQ5YQQHLZMPU"
+status="live"
+display_decimals=4
+name="BITMAX"
+fixed_number=30000000000
+desc="BITMAX is issued by Stellarflies Team."
+conditions="Maximum supply of BITMAX is 30B tokens only"
+image="https://Stellarflies.com/images/BITMAX.png"
