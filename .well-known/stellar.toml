@@ -1285,3 +1285,14 @@ fixed_number=30000000000
 desc="BITMAX is issued by Stellarflies Team."
 conditions="Maximum supply of BITMAX is 30B tokens only"
 image="https://Stellarflies.com/images/BITMAX.png"
+
+[[CURRENCIES]]
+code="PHEMEX"
+issuer="GDFOG5UPALNGF47JIWL2VKJUKBKUGPU2GBH72IDNRTNBMB44WZOV4XOM"
+status="live"
+display_decimals=4
+name="PHEMEX"
+fixed_number=30000000000
+desc="PHEMEX is issued by Stellarflies Team."
+conditions="Maximum supply of PHEMEX is 30B tokens only"
+image="https://Stellarflies.com/images/PHEMEX.png"
