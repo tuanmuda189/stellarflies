@@ -1308,3 +1308,13 @@ desc="ZB is issued by Stellarflies Team."
 conditions="Maximum supply of ZB is 30B tokens only"
 image="https://Stellarflies.com/images/ZB.png"
 
+[[CURRENCIES]]
+code="BTCEX"
+issuer="GDZBDPKUA6NMFEJ7S37TTLCXAJIKZVTJBRR36M7XUE745DFNI544UMRO"
+status="live"
+display_decimals=4
+name="BTCEX"
+fixed_number=30000000000
+desc="BTCEX is issued by Stellarflies Team."
+conditions="Maximum supply of BTCEX is 30B tokens only"
+image="https://Stellarflies.com/images/BTCEX.png"
