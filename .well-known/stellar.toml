@@ -1318,3 +1318,14 @@ fixed_number=30000000000
 desc="BTCEX is issued by Stellarflies Team."
 conditions="Maximum supply of BTCEX is 30B tokens only"
 image="https://Stellarflies.com/images/BTCEX.png"
+
+[[CURRENCIES]]
+code="TOKOCRYPTO"
+issuer="GANTKCB4AHM5OQ3TLOTM2LBXF7RIZBHHBS4SRCALZ7PHRJF7PQ627DKM"
+status="live"
+display_decimals=4
+name="TOKOCRYPTO"
+fixed_number=30000000000
+desc="TOKOCRYPTO is issued by Stellarflies Team."
+conditions="Maximum supply of TOKOCRYPTO is 30B tokens only"
+image="https://Stellarflies.com/images/TOKOCRYPTO.png"
