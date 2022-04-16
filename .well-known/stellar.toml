@@ -1329,3 +1329,14 @@ fixed_number=30000000000
 desc="TOKOCRYPTO is issued by Stellarflies Team."
 conditions="Maximum supply of TOKOCRYPTO is 30B tokens only"
 image="https://Stellarflies.com/images/TOKOCRYPTO.png"
+
+[[CURRENCIES]]
+code="INDODAX"
+issuer="GCVAKVRR75PYIVRGXLURVBSI3B3MF4JTK7RXS4G2YJKDQIWWO6EKM6KX"
+status="live"
+display_decimals=4
+name="INDODAX"
+fixed_number=30000000000
+desc="INDODAX is issued by Stellarflies Team."
+conditions="Maximum supply of INDODAX is 30B tokens only"
+image="https://Stellarflies.com/images/INDODAX.png"
