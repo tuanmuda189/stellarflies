@@ -1340,3 +1340,14 @@ fixed_number=30000000000
 desc="INDODAX is issued by Stellarflies Team."
 conditions="Maximum supply of INDODAX is 30B tokens only"
 image="https://Stellarflies.com/images/INDODAX.png"
+
+[[CURRENCIES]]
+code="AAX"
+issuer="GBLRXVK74GANACD2Z73UMHNYCE4OUVVSQGMUQO25ACLN4AE53UHOREFD"
+status="live"
+display_decimals=4
+name="AAX"
+fixed_number=30000000000
+desc="AAX is issued by Stellarflies Team."
+conditions="Maximum supply of AAX is 30B tokens only"
+image="https://Stellarflies.com/images/AAX.png"
