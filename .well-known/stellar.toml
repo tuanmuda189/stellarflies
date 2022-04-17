@@ -1351,3 +1351,14 @@ fixed_number=30000000000
 desc="AAX is issued by Stellarflies Team."
 conditions="Maximum supply of AAX is 30B tokens only"
 image="https://Stellarflies.com/images/AAX.png"
+
+[[CURRENCIES]]
+code="BIGONE"
+issuer="GCUACJB5YYNPRSLK45Q3EKJ3VJCAX3BBG2AA7J7UV665A6T4SCSFI32V"
+status="live"
+display_decimals=4
+name="BIGONE"
+fixed_number=30000000000
+desc="BIGONE is issued by Stellarflies Team."
+conditions="Maximum supply of BIGONE is 30B tokens only"
+image="https://Stellarflies.com/images/BIGONE.png"
