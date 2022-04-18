@@ -1362,3 +1362,14 @@ fixed_number=30000000000
 desc="BIGONE is issued by Stellarflies Team."
 conditions="Maximum supply of BIGONE is 30B tokens only"
 image="https://Stellarflies.com/images/BIGONE.png"
+
+[[CURRENCIES]]
+code="WAZIRX"
+issuer="GCTGOJFFNYXREZAU4GCYTGBHEEYZYYW2OOZUZ5MWKXQCUNMMIRDHYWVR"
+status="live"
+display_decimals=4
+name="WAZIRX"
+fixed_number=30000000000
+desc="WAZIRX is issued by Stellarflies Team."
+conditions="Maximum supply of WAZIRX is 30B tokens only"
+image="https://Stellarflies.com/images/WAZIRX.png"
