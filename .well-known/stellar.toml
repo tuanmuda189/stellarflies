@@ -1406,3 +1406,14 @@ fixed_number=30000000000
 desc="FMFW is issued by Stellarflies Team."
 conditions="Maximum supply of FMFW is 30B tokens only"
 image="https://Stellarflies.com/images/FMFW.png"
+
+[[CURRENCIES]]
+code="BITMART"
+issuer="GCY4DAEI2TDLGUTTSQ5UM2LB2FASLZURGZ7TB5633ELTRDWPGLPDTMSX"
+status="live"
+display_decimals=4
+name="BITMART"
+fixed_number=30000000000
+desc="BITMART is issued by Stellarflies Team."
+conditions="Maximum supply of BITMART is 30B tokens only"
+image="https://Stellarflies.com/images/BITMART.png"
