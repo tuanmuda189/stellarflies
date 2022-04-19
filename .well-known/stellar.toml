@@ -1384,3 +1384,14 @@ fixed_number=30000000000
 desc="BITBANK is issued by Stellarflies Team."
 conditions="Maximum supply of BITBANK is 30B tokens only"
 image="https://Stellarflies.com/images/BITBANK.png"
+
+[[CURRENCIES]]
+code="POLYX"
+issuer="GDNVHWX34J7K7H5X2ODCZ7RE3TRYVGUSTSOKBHENUVJ7E2AYOJFKBULB"
+status="live"
+display_decimals=4
+name="POLYX"
+fixed_number=30000000000
+desc="POLYX is issued by Stellarflies Team."
+conditions="Maximum supply of POLYX is 30B tokens only"
+image="https://Stellarflies.com/images/POLYX.png"
