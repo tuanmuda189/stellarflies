@@ -1417,3 +1417,14 @@ fixed_number=30000000000
 desc="BITMART is issued by Stellarflies Team."
 conditions="Maximum supply of BITMART is 30B tokens only"
 image="https://Stellarflies.com/images/BITMART.png"
+
+[[CURRENCIES]]
+code="DIGIFINEX"
+issuer="GCTJCZRJRCFQMOFI7KS7CA2723HS7WEFOIFLGFPWDCFMBMYXI7NFM7NH"
+status="live"
+display_decimals=4
+name="DIGIFINEX"
+fixed_number=30000000000
+desc="DIGIFINEX is issued by Stellarflies Team."
+conditions="Maximum supply of DIGIFINEX is 30B tokens only"
+image="https://Stellarflies.com/images/DIGIFINEX.png"
