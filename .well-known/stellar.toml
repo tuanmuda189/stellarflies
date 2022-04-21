@@ -1439,3 +1439,14 @@ fixed_number=30000000000
 desc="BITGET is issued by Stellarflies Team."
 conditions="Maximum supply of BITGET is 30B tokens only"
 image="https://Stellarflies.com/images/BITGET.png"
+
+[[CURRENCIES]]
+code="COINSBIT"
+issuer="GAHO2P7HFBC3JXG47LCXHEFMESGFIA6YR3BVKJFZIGO5Z6IW2IGMSRVM"
+status="live"
+display_decimals=4
+name="COINSBIT"
+fixed_number=30000000000
+desc="COINSBIT is issued by Stellarflies Team."
+conditions="Maximum supply of COINSBIT is 30B tokens only"
+image="https://Stellarflies.com/images/COINSBIT.png"
