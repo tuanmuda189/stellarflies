@@ -1428,3 +1428,14 @@ fixed_number=30000000000
 desc="DIGIFINEX is issued by Stellarflies Team."
 conditions="Maximum supply of DIGIFINEX is 30B tokens only"
 image="https://Stellarflies.com/images/DIGIFINEX.png"
+
+[[CURRENCIES]]
+code="BITGET"
+issuer="GC5VNZDL55Q4MR2BNOLOPQ4YB4DGQE6DPTVMOQXDXJQRMZNNKF37U527"
+status="live"
+display_decimals=4
+name="BITGET"
+fixed_number=30000000000
+desc="BITGET is issued by Stellarflies Team."
+conditions="Maximum supply of BITGET is 30B tokens only"
+image="https://Stellarflies.com/images/BITGET.png"
