@@ -1472,3 +1472,14 @@ fixed_number=30000000000
 desc="BITKUB is issued by Stellarflies Team."
 conditions="Maximum supply of BITKUB is 30B tokens only"
 image="https://Stellarflies.com/images/BITKUB.png"
+
+[[CURRENCIES]]
+code="BITVAVO"
+issuer="GB6A3PPS5SWDVGBSWYHFCSWJRKR3UIAI5EKWIJNDCQHLKNDSSVBJMHHB"
+status="live"
+display_decimals=4
+name="BITVAVO"
+fixed_number=30000000000
+desc="BITVAVO is issued by Stellarflies Team."
+conditions="Maximum supply of BITVAVO is 30B tokens only"
+image="https://Stellarflies.com/images/BITVAVO.png"
