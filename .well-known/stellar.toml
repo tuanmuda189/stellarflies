@@ -1450,3 +1450,14 @@ fixed_number=30000000000
 desc="COINSBIT is issued by Stellarflies Team."
 conditions="Maximum supply of COINSBIT is 30B tokens only"
 image="https://Stellarflies.com/images/COINSBIT.png"
+
+[[CURRENCIES]]
+code="MAXEXCHANGE"
+issuer="GBZUE7VC64KLO6AGTYMDHFBNFWUFXR2HITKDJSECNMXGWVQEQ6KT2QS2"
+status="live"
+display_decimals=4
+name="MAXEXCHANGE"
+fixed_number=30000000000
+desc="MAXEXCHANGE is issued by Stellarflies Team."
+conditions="Maximum supply of MAXEXCHANGE is 30B tokens only"
+image="https://Stellarflies.com/images/MAXEXCHANGE.png"
