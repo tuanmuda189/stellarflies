@@ -1461,3 +1461,14 @@ fixed_number=30000000000
 desc="MAXEXCHANGE is issued by Stellarflies Team."
 conditions="Maximum supply of MAXEXCHANGE is 30B tokens only"
 image="https://Stellarflies.com/images/MAXEXCHANGE.png"
+
+[[CURRENCIES]]
+code="BITKUB"
+issuer="GALL4IRABFTIBUYWHQ4S6T44F4P3LQZMWKBLRKFTEVXKCD3LOSXJ5SKP"
+status="live"
+display_decimals=4
+name="BITKUB"
+fixed_number=30000000000
+desc="BITKUB is issued by Stellarflies Team."
+conditions="Maximum supply of BITKUB is 30B tokens only"
+image="https://Stellarflies.com/images/BITKUB.png"
