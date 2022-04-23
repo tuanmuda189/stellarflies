@@ -1483,3 +1483,14 @@ fixed_number=30000000000
 desc="BITVAVO is issued by Stellarflies Team."
 conditions="Maximum supply of BITVAVO is 30B tokens only"
 image="https://Stellarflies.com/images/BITVAVO.png"
+
+[[CURRENCIES]]
+code="BITWELL"
+issuer="GBCQE4Q63TDHT4TFRW5U342OZXH4A57SEN5UTZDFTF5RRY2DPT6V5KQ6"
+status="live"
+display_decimals=4
+name="BITWELL"
+fixed_number=30000000000
+desc="BITWELL is issued by Stellarflies Team."
+conditions="Maximum supply of BITWELL is 30B tokens only"
+image="https://Stellarflies.com/images/BITWELL.png"
