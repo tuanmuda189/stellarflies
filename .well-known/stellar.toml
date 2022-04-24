@@ -1505,3 +1505,14 @@ fixed_number=30000000000
 desc="EXMO is issued by Stellarflies Team."
 conditions="Maximum supply of EXMO is 30B tokens only"
 image="https://Stellarflies.com/images/EXMO.png"
+
+[[CURRENCIES]]
+code="PARIBU"
+issuer="GDVUNQRA2JMBWMYHLH2S36Q6LICHEZQB4K3YMBU3XERWE4SFO7OW2J2O"
+status="live"
+display_decimals=4
+name="PARIBU"
+fixed_number=30000000000
+desc="PARIBU is issued by Stellarflies Team."
+conditions="Maximum supply of PARIBU is 30B tokens only"
+image="https://Stellarflies.com/images/PARIBU.png"
