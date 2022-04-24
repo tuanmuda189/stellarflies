@@ -1494,3 +1494,14 @@ fixed_number=30000000000
 desc="BITWELL is issued by Stellarflies Team."
 conditions="Maximum supply of BITWELL is 30B tokens only"
 image="https://Stellarflies.com/images/BITWELL.png"
+
+[[CURRENCIES]]
+code="EXMO"
+issuer="GCOA26Y5GBVX7WL5SPJGENWTYETFWBO5DUAQ27PP6NBVSWXB3M3QZNXJ"
+status="live"
+display_decimals=4
+name="EXMO"
+fixed_number=30000000000
+desc="EXMO is issued by Stellarflies Team."
+conditions="Maximum supply of EXMO is 30B tokens only"
+image="https://Stellarflies.com/images/EXMO.png"
