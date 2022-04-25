@@ -1516,3 +1516,14 @@ fixed_number=30000000000
 desc="PARIBU is issued by Stellarflies Team."
 conditions="Maximum supply of PARIBU is 30B tokens only"
 image="https://Stellarflies.com/images/PARIBU.png"
+
+[[CURRENCIES]]
+code="BITFRONT"
+issuer="GD4M3T4IDDPFHWSHTPFO7IF36C2SW4ZDKAFGUEDV4HMULT2UBY74GM6A"
+status="live"
+display_decimals=4
+name="BITFRONT"
+fixed_number=30000000000
+desc="BITFRONT is issued by Stellarflies Team."
+conditions="Maximum supply of BITFRONT is 30B tokens only"
+image="https://Stellarflies.com/images/BITFRONT.png"
