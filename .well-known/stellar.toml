@@ -1527,3 +1527,14 @@ fixed_number=30000000000
 desc="BITFRONT is issued by Stellarflies Team."
 conditions="Maximum supply of BITFRONT is 30B tokens only"
 image="https://Stellarflies.com/images/BITFRONT.png"
+
+[[CURRENCIES]]
+code="LUNO"
+issuer="GATNUWM3JVGA6CEPSN5CQBC6UNLUAZ6SVHCSUCJZ6UUBXJLC2ALEHXGP"
+status="live"
+display_decimals=4
+name="LUNO"
+fixed_number=30000000000
+desc="LUNO is issued by Stellarflies Team."
+conditions="Maximum supply of LUNO is 30B tokens only"
+image="https://Stellarflies.com/images/LUNO.png"
