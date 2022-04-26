@@ -1549,3 +1549,14 @@ fixed_number=30000000000
 desc="BKEX is issued by Stellarflies Team."
 conditions="Maximum supply of BKEX is 30B tokens only"
 image="https://Stellarflies.com/images/BKEX.png"
+
+[[CURRENCIES]]
+code="BITSO"
+issuer="GDYNY63M5PCLAE33U7QY6FCDOC5ZGTADPJ5GAUL6KZBJPHNKW66TXJPA"
+status="live"
+display_decimals=4
+name="BITSO"
+fixed_number=30000000000
+desc="BITSO is issued by Stellarflies Team."
+conditions="Maximum supply of BITSO is 30B tokens only"
+image="https://Stellarflies.com/images/BITSO.png"
