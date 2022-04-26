@@ -1538,3 +1538,14 @@ fixed_number=30000000000
 desc="LUNO is issued by Stellarflies Team."
 conditions="Maximum supply of LUNO is 30B tokens only"
 image="https://Stellarflies.com/images/LUNO.png"
+
+[[CURRENCIES]]
+code="BKEX"
+issuer="GCWJ5EBISY7YIO7RIPIU26M3EFHMJ7MAK2KVDUIU5G4VBDSWNF2J632E"
+status="live"
+display_decimals=4
+name="BKEX"
+fixed_number=30000000000
+desc="BKEX is issued by Stellarflies Team."
+conditions="Maximum supply of BKEX is 30B tokens only"
+image="https://Stellarflies.com/images/BKEX.png"
