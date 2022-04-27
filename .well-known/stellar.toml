@@ -1582,3 +1582,14 @@ fixed_number=30000000000
 desc="AEX is issued by Stellarflies Team."
 conditions="Maximum supply of AEX is 30B tokens only"
 image="https://Stellarflies.com/images/AEX.png"
+
+[[CURRENCIES]]
+code="UNOCOIN"
+issuer="GAUEW23HHNNJZ3J6QECEEYHJBW2KXQ4SXFR7NLFR2VJ4T2HQGCTUFE2O"
+status="live"
+display_decimals=4
+name="UNOCOIN"
+fixed_number=30000000000
+desc="UNOCOIN is issued by Stellarflies Team."
+conditions="Maximum supply of UNOCOIN is 30B tokens only"
+image="https://Stellarflies.com/images/UNOCOIN.png"
