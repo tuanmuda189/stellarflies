@@ -1560,3 +1560,14 @@ fixed_number=30000000000
 desc="BITSO is issued by Stellarflies Team."
 conditions="Maximum supply of BITSO is 30B tokens only"
 image="https://Stellarflies.com/images/BITSO.png"
+
+[[CURRENCIES]]
+code="INDOEX"
+issuer="GCVPRN6E6QSKGPL6IGR6BVX44MJRXZ6MAR3BKXMUUML4LXRFK4IHWCTX"
+status="live"
+display_decimals=4
+name="INDOEX"
+fixed_number=30000000000
+desc="INDOEX is issued by Stellarflies Team."
+conditions="Maximum supply of INDOEX is 30B tokens only"
+image="https://Stellarflies.com/images/INDOEX.png"
