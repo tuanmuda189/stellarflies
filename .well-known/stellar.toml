@@ -1593,14 +1593,3 @@ fixed_number=30000000000
 desc="UNOCOIN is issued by Stellarflies Team."
 conditions="Maximum supply of UNOCOIN is 30B tokens only"
 image="https://Stellarflies.com/images/UNOCOIN.png"
-
-[[CURRENCIES]]
-code="ETOROX"
-issuer="GDXL7Y77QVVESO6IPGAXWX7G4K5BU74HMWFILSLRRSK7A3YMJJOL6WW3"
-status="live"
-display_decimals=4
-name="ETOROX"
-fixed_number=30000000000
-desc="ETOROX is issued by Stellarflies Team."
-conditions="Maximum supply of ETOROX is 30B tokens only"
-image="https://Stellarflies.com/images/ETOROX.png"
