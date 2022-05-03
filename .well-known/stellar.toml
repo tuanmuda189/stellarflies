@@ -1604,3 +1604,15 @@ fixed_number=30000000000
 desc="ETOROX is issued by Stellarflies Team."
 conditions="Maximum supply of ETOROX is 30B tokens only"
 image="https://Stellarflies.com/images/ETOROX.png"
+
+[[CURRENCIES]]
+code="EQONEX"
+issuer="GA5ENDIAWWG64YYGAG35UGAASZRTCD2ONM744FNJY2TLE4RMOKSQKXN3"
+status="live"
+display_decimals=4
+name="EQONEX"
+fixed_number=30000000000
+desc="EQONEX is issued by Stellarflies Team."
+conditions="Maximum supply of EQONEX is 30B tokens only"
+image="https://Stellarflies.com/images/EQONEX                                                                     .png"
+
