@@ -1626,3 +1626,14 @@ fixed_number=30000000000
 desc="BITEXEN is issued by Stellarflies Team."
 conditions="Maximum supply of BITEXEN is 30B tokens only"
 image="https://Stellarflies.com/images/BITEXEN.png"
+
+[[CURRENCIES]]
+code="COINFLEX"
+issuer="GBQKPLLKXDPHROYMZCCGKU5E3SQA6AJFBIAAHJIYYHYCYOBDROG6PJO2"
+status="live"
+display_decimals=4
+name="COINFLEX"
+fixed_number=30000000000
+desc="COINFLEX is issued by Stellarflies Team."
+conditions="Maximum supply of COINFLEX is 30B tokens only"
+image="https://Stellarflies.com/images/COINFLEX.png"
