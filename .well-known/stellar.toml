@@ -1637,3 +1637,14 @@ fixed_number=30000000000
 desc="COINFLEX is issued by Stellarflies Team."
 conditions="Maximum supply of COINFLEX is 30B tokens only"
 image="https://Stellarflies.com/images/COINFLEX.png"
+
+[[CURRENCIES]]
+code="CROSSTOWER"
+issuer="GDGM6EB6C3WAVYECUB7QGCAE5FHBPCS6CK35GEV6CVGQ453KUOPY6QGA"
+status="live"
+display_decimals=4
+name="CROSSTOWER"
+fixed_number=30000000000
+desc="CROSSTOWER is issued by Stellarflies Team."
+conditions="Maximum supply of CROSSTOWER is 30B tokens only"
+image="https://Stellarflies.com/images/CROSSTOWER.png"
