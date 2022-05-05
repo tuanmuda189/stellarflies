@@ -1648,3 +1648,14 @@ fixed_number=30000000000
 desc="CROSSTOWER is issued by Stellarflies Team."
 conditions="Maximum supply of CROSSTOWER is 30B tokens only"
 image="https://Stellarflies.com/images/CROSSTOWER.png"
+
+[[CURRENCIES]]
+code="BINGX"
+issuer="GDDKMQHAM2RLYCXDGURG7O4X2MPA6VA7ONYHGKL7QSFI2EDACKEEDXXI"
+status="live"
+display_decimals=4
+name="BINGX"
+fixed_number=30000000000
+desc="BINGX is issued by Stellarflies Team."
+conditions="Maximum supply of BINGX is 30B tokens only"
+image="https://Stellarflies.com/images/BINGX.png"
