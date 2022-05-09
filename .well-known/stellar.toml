@@ -1670,3 +1670,14 @@ fixed_number=30000000000
 desc="CRYPTOLOGY is issued by Stellarflies Team."
 conditions="Maximum supply of CRYPTOLOGY is 30B tokens only"
 image="https://Stellarflies.com/images/CRYPTOLOGY.png"
+
+[[CURRENCIES]]
+code="GOKUMARKET"
+issuer="GBONTCGQEDINO4DEDYQIKQEZ6S6UFE2JGNSE34VHNOXCCFHXB6RIGZLH"
+status="live"
+display_decimals=4
+name="GOKUMARKET"
+fixed_number=30000000000
+desc="GOKUMARKET is issued by Stellarflies Team."
+conditions="Maximum supply of GOKUMARKET is 30B tokens only"
+image="https://Stellarflies.com/images/GOKUMARKET.png"
