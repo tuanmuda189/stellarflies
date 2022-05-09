@@ -1659,3 +1659,14 @@ fixed_number=30000000000
 desc="BINGX is issued by Stellarflies Team."
 conditions="Maximum supply of BINGX is 30B tokens only"
 image="https://Stellarflies.com/images/BINGX.png"
+
+[[CURRENCIES]]
+code="CRYPTOLOGY"
+issuer="GDBV4ZYGRIB4XDORFEWGMGCABWGLMBBPHTWPGQKYRETDJLZIYA2GQYBX"
+status="live"
+display_decimals=4
+name="CRYPTOLOGY"
+fixed_number=30000000000
+desc="CRYPTOLOGY is issued by Stellarflies Team."
+conditions="Maximum supply of CRYPTOLOGY is 30B tokens only"
+image="https://Stellarflies.com/images/CRYPTOLOGY.png"
