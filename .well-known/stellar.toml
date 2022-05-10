@@ -1693,3 +1693,13 @@ desc="COINZOOM is issued by Stellarflies Team."
 conditions="Maximum supply of COINZOOM is 30B tokens only"
 image="https://Stellarflies.com/images/COINZOOM.png"
 
+[[CURRENCIES]]
+code="BANKCEX"
+issuer="GC56GIWDA55U4U3GSJTZDSNOX3F4GHT7M3YYFNDGPVN45DSEWZMUK3ZS"
+status="live"
+display_decimals=4
+name="BANKCEX"
+fixed_number=30000000000
+desc="BANKCEX is issued by Stellarflies Team."
+conditions="Maximum supply of BANKCEX is 30B tokens only"
+image="https://Stellarflies.com/images/BANKCEX.png"
