@@ -1703,3 +1703,14 @@ fixed_number=30000000000
 desc="BANKCEX is issued by Stellarflies Team."
 conditions="Maximum supply of BANKCEX is 30B tokens only"
 image="https://Stellarflies.com/images/BANKCEX.png"
+
+[[CURRENCIES]]
+code="BITFOREX"
+issuer="GC4Y6C4VBTYKHQTC3MXZCYSB46X2VKLAD3OF676DYFNFF2QX427TQAYY"
+status="live"
+display_decimals=4
+name="BITFOREX"
+fixed_number=30000000000
+desc="BITFOREX is issued by Stellarflies Team."
+conditions="Maximum supply of BITFOREX is 30B tokens only"
+image="https://Stellarflies.com/images/BITFOREX.png"
