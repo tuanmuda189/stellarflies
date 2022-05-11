@@ -1714,3 +1714,14 @@ fixed_number=30000000000
 desc="BITFOREX is issued by Stellarflies Team."
 conditions="Maximum supply of BITFOREX is 30B tokens only"
 image="https://Stellarflies.com/images/BITFOREX.png"
+
+[[CURRENCIES]]
+code="DEXTRADE"
+issuer="GAJKBECQJETKLDX4QDL2HRGWWOKKJXOUIU6W3PJTSVLXI4ZVXLRZYOHL"
+status="live"
+display_decimals=4
+name="DEXTRADE"
+fixed_number=30000000000
+desc="DEXTRADE is issued by Stellarflies Team."
+conditions="Maximum supply of DEXTRADE is 30B tokens only"
+image="https://Stellarflies.com/images/DEXTRADE.png"
