@@ -1725,3 +1725,14 @@ fixed_number=30000000000
 desc="DEXTRADE is issued by Stellarflies Team."
 conditions="Maximum supply of DEXTRADE is 30B tokens only"
 image="https://Stellarflies.com/images/DEXTRADE.png"
+
+[[CURRENCIES]]
+code="BTCMARKETS"
+issuer="GBHKIZFHMS76WUL4FPVUSAYDQM4ESO2ULBS46556D2NNUZTU57ZL6FRD"
+status="live"
+display_decimals=4
+name="BTCMARKETS"
+fixed_number=30000000000
+desc="BTCMARKETS is issued by Stellarflies Team."
+conditions="Maximum supply of BTCMARKETS is 30B tokens only"
+image="https://Stellarflies.com/images/BTCMARKETS.png"
