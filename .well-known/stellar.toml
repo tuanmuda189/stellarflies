@@ -1736,3 +1736,14 @@ fixed_number=30000000000
 desc="BTCMARKETS is issued by Stellarflies Team."
 conditions="Maximum supply of BTCMARKETS is 30B tokens only"
 image="https://Stellarflies.com/images/BTCMARKETS.png"
+
+[[CURRENCIES]]
+code="BIT2ME"
+issuer="GDSIAFTBG5DO3DSPO3GCP7WCVZJIU627AATEG2JIEHCQ3NBR33SER3Q5"
+status="live"
+display_decimals=4
+name="BIT2ME"
+fixed_number=30000000000
+desc="BIT2ME is issued by Stellarflies Team."
+conditions="Maximum supply of BIT2ME is 30B tokens only"
+image="https://Stellarflies.com/images/BIT2ME.png"
