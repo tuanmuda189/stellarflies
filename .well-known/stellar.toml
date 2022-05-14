@@ -1747,3 +1747,14 @@ fixed_number=30000000000
 desc="BIT2ME is issued by Stellarflies Team."
 conditions="Maximum supply of BIT2ME is 30B tokens only"
 image="https://Stellarflies.com/images/BIT2ME.png"
+
+[[CURRENCIES]]
+code="HITBTC"
+issuer="GDNGKRMRGCF5F2ZS5U7QE7XEQKJ4FSIO376HOQMOTRA3WJXCZGD4GQ24"
+status="live"
+display_decimals=4
+name="HITBTC"
+fixed_number=30000000000
+desc="HITBTC is issued by Stellarflies Team."
+conditions="Maximum supply of HITBTC is 30B tokens only"
+image="https://Stellarflies.com/images/HITBTC.png"
