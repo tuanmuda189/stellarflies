@@ -1758,3 +1758,14 @@ fixed_number=30000000000
 desc="HITBTC is issued by Stellarflies Team."
 conditions="Maximum supply of HITBTC is 30B tokens only"
 image="https://Stellarflies.com/images/HITBTC.png"
+
+[[CURRENCIES]]
+code="HOTBIT"
+issuer="GAMFGWUO3S732UIFF2UMH4PXXDXJNTXCLNBAAEIHNEC2UJJKPCYTPNQ7"
+status="live"
+display_decimals=4
+name="HOTBIT"
+fixed_number=30000000000
+desc="HOTBIT is issued by Stellarflies Team."
+conditions="Maximum supply of HOTBIT is 30B tokens only"
+image="https://Stellarflies.com/images/HOTBIT.png"
