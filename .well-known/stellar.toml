@@ -1769,3 +1769,14 @@ fixed_number=30000000000
 desc="HOTBIT is issued by Stellarflies Team."
 conditions="Maximum supply of HOTBIT is 30B tokens only"
 image="https://Stellarflies.com/images/HOTBIT.png"
+
+[[CURRENCIES]]
+code="PARITEX"
+issuer="GBITPOTCN6QAA7BH5C3VVLHAU2VOVKSTN6F73OSD5SP3FUOGFI6IFZ4N"
+status="live"
+display_decimals=4
+name="PARITEX"
+fixed_number=30000000000
+desc="PARITEX is issued by Stellarflies Team."
+conditions="Maximum supply of PARITEX is 30B tokens only"
+image="https://Stellarflies.com/images/PARITEX.png"
