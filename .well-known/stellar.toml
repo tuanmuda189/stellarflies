@@ -1780,3 +1780,14 @@ fixed_number=30000000000
 desc="PARITEX is issued by Stellarflies Team."
 conditions="Maximum supply of PARITEX is 30B tokens only"
 image="https://Stellarflies.com/images/PARITEX.png"
+
+[[CURRENCIES]]
+code="BIBOX"
+issuer="GAZD73TAIKZ7TXHVOAY3L5QOBATUF3SZ2ZOX7CSCG3RNKTKXEPLU3KUX"
+status="live"
+display_decimals=4
+name="BIBOX"
+fixed_number=30000000000
+desc="BIBOX is issued by Stellarflies Team."
+conditions="Maximum supply of BIBOX is 30B tokens only"
+image="https://Stellarflies.com/images/BIBOX.png"
