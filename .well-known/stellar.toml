@@ -1791,3 +1791,14 @@ fixed_number=30000000000
 desc="BIBOX is issued by Stellarflies Team."
 conditions="Maximum supply of BIBOX is 30B tokens only"
 image="https://Stellarflies.com/images/BIBOX.png"
+
+[[CURRENCIES]]
+code="COINDEAL"
+issuer="GAMTRO7YA6P2PXYOSBZWW3344YZ4HQXBARQZ6G3JOYPKK4XX3QV6V2U3"
+status="live"
+display_decimals=4
+name="COINDEAL"
+fixed_number=30000000000
+desc="COINDEAL is issued by Stellarflies Team."
+conditions="Maximum supply of COINDEAL is 30B tokens only"
+image="https://Stellarflies.com/images/COINDEAL.png"
