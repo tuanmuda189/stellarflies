@@ -1802,3 +1802,14 @@ fixed_number=30000000000
 desc="COINDEAL is issued by Stellarflies Team."
 conditions="Maximum supply of COINDEAL is 30B tokens only"
 image="https://Stellarflies.com/images/COINDEAL.png"
+
+[[CURRENCIES]]
+code="NOVADAX"
+issuer="GDGOQMFIOZTHZJR5KAEGSK32SRWL5QISUDUUGHFDXKHXWKIMFEVFBSIK"
+status="live"
+display_decimals=4
+name="NOVADAX"
+fixed_number=30000000000
+desc="NOVADAX is issued by Stellarflies Team."
+conditions="Maximum supply of NOVADAX is 30B tokens only"
+image="https://Stellarflies.com/images/NOVADAX.png"
