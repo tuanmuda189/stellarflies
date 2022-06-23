@@ -1813,3 +1813,14 @@ fixed_number=30000000000
 desc="NOVADAX is issued by Stellarflies Team."
 conditions="Maximum supply of NOVADAX is 30B tokens only"
 image="https://Stellarflies.com/images/NOVADAX.png"
+
+[[CURRENCIES]]
+code="LIQUID"
+issuer="GCEAUCOQING6ERPSBLVP3BS75DAZTT6XEYFFHSPWRISP4QZ6KTDUJ6T2"
+status="live"
+display_decimals=4
+name="LIQUID"
+fixed_number=30000000000
+desc="LIQUID is issued by Stellarflies Team."
+conditions="Maximum supply of LIQUID is 30B tokens only"
+image="https://Stellarflies.com/images/LIQUID.png"
