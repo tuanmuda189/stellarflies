@@ -1824,3 +1824,14 @@ fixed_number=30000000000
 desc="LIQUID is issued by Stellarflies Team."
 conditions="Maximum supply of LIQUID is 30B tokens only"
 image="https://Stellarflies.com/images/LIQUID.png"
+
+[[CURRENCIES]]
+code="BILLANCE"
+issuer="GCLUENC2U4LNUTMYGTKO4E46CF5UBP7IW36FTCTLA2VYX4I3WM5WQSWD"
+status="live"
+display_decimals=4
+name="BILLANCE"
+fixed_number=30000000000
+desc="BILLANCE is issued by Stellarflies Team."
+conditions="Maximum supply of BILLANCE is 30B tokens only"
+image="https://Stellarflies.com/images/BILLANCE.png"
