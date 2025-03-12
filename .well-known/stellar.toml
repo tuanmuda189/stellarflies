@@ -5,3 +5,1818 @@ ORG_NAME="stellarflies"
 ORG_URL="https://www.stellarflies.com/"
 ORG_LOGO="https://www.stellarflies.com/images/stellarflies.png"
 ORG_DESCRIPTION="stellarflies.com Your Stellar Marketplace that makes you fly high!"
+
+[[CURRENCIES]]
+code="FLY"
+issuer="GBULORLSSGT2H2CDUNXC77KCUNYZH6UG7XGPYXBB65BO74ICXETVEMSF"
+status="live"
+display_decimals=4
+name="FLY"
+fixed_number=30000000000
+desc="FLY is issued by Stellarflies Team."
+conditions="Maximum supply of FLY is 30B tokens only"
+image="https://Stellarflies.com/images/FLY.png"
+
+[[CURRENCIES]]
+code="BTC"
+issuer="GABBPMH6EFP4QXL36ZVMQKMVE24XLS2DD74P6H76RV4OANOHCRL247DZ"
+status="live"
+display_decimals=4
+name="BTC"
+fixed_number=30000000000
+desc="BTC is issued by Stellarflies Team."
+conditions="Maximum supply of BTC is 30B tokens only"
+image="https://Stellarflies.com/images/BTC.png"
+
+[[CURRENCIES]]
+code="TESLA"
+issuer="GCLZEWDBRNOIKXLRJTVNIMG4KT6PFJEVTJI5J4ZW3OQNYZ5XYFC6UHQP"
+status="live"
+display_decimals=4
+name="TESLA"
+fixed_number=30000000000
+desc="TESLA is issued by Stellarflies Team."
+conditions="Maximum supply of TESLA is 30B tokens only"
+image="https://Stellarflies.com/images/TESLA.png"
+
+[[CURRENCIES]]
+code="CHROME"
+issuer="GCOHDYA4EFGVC774CYL5KLEHTYKGTG3YNCWLTFBJDA2MYFJUG7V5GBME"
+status="live"
+display_decimals=4
+name="CHROME"
+fixed_number=30000000000
+desc="CHROME is issued by Stellarflies Team."
+conditions="Maximum supply of CHROME is 30B tokens only"
+image="https://Stellarflies.com/images/CHROME.png"
+
+[[CURRENCIES]]
+code="MICROSOFT"
+issuer="GA7TVOAH6DU5VF6KKN7YIW5IHXGFSRYPI5A524L7PNXAYHOHGLRMSRYP"
+status="live"
+display_decimals=4
+name="MICROSOFT"
+fixed_number=30000000000
+desc="MICROSOFT is issued by Stellarflies Team."
+conditions="Maximum supply of MICROSOFT is 30B tokens only"
+image="https://Stellarflies.com/images/MICROSOFT.png"
+
+[[CURRENCIES]]
+code="APPLE"
+issuer="GDU7ESAX7EJQEHVLZPVFD4K6IVL2STSXOU2IRMZXB4RIWXE5DOMFWVZG"
+status="live"
+display_decimals=4
+name="APPLE"
+fixed_number=30000000000
+desc="APPLE is issued by Stellarflies Team."
+conditions="Maximum supply of APPLE is 30B tokens only"
+image="https://Stellarflies.com/images/APPLE.png"
+
+[[CURRENCIES]]
+code="ASUS"
+issuer="GCUZLYEQK6MK2YOXC7HIZNMV4RWO43AYRBUU4MDH3MJQEJMVJZ2TJBUU"
+status="live"
+display_decimals=4
+name="ASUS"
+fixed_number=30000000000
+desc="ASUS is issued by Stellarflies Team."
+conditions="Maximum supply of ASUS is 30B tokens only"
+image="https://Stellarflies.com/images/ASUS.png"
+
+[[CURRENCIES]]
+code="SOL"
+issuer="GC7OYN6UXGPQAJNHNQVHGSQGHX3ZVF6UPGGKOACXKF5EAZ7TTGRRGZ6Q"
+status="live"
+display_decimals=4
+name="SOL"
+fixed_number=30000000000
+desc="SOL is issued by Stellarflies Team."
+conditions="Maximum supply of SOL is 30B tokens only"
+image="https://Stellarflies.com/images/SOL.png"
+
+[[CURRENCIES]]
+code="HP"
+issuer="GDB6QEQEV4TWTJGADUSPLXR22UMLKRAJA44M4JGFBLQBKZ4IMI7K4BLH"
+status="live"
+display_decimals=4
+name="HP"
+fixed_number=30000000000
+desc="HP is issued by Stellarflies Team."
+conditions="Maximum supply of HP is 30B tokens only"
+image="https://Stellarflies.com/images/HP.png"
+
+[[CURRENCIES]]
+code="ETH"
+issuer="GDNDOKX6OE2BGUG6GF4A5HM5UAQZCROH5TSQCHGWATN6UWFL2VGC4YMY"
+status="live"
+display_decimals=4
+name="ETH"
+fixed_number=30000000000
+desc="ETH is issued by Stellarflies Team."
+conditions="Maximum supply of ETH is 30B tokens only"
+image="https://Stellarflies.com/images/ETH.png"
+
+[[CURRENCIES]]
+code="ROG"
+issuer="GDAMKXIGPBC5FDAXI66N3WSMT5QYV6Y7M3ANPLWO5WVMUZJQFXGQYJAT"
+status="live"
+display_decimals=4
+name="ROG"
+fixed_number=30000000000
+desc="ROG is issued by Stellarflies Team."
+conditions="Maximum supply of ROG is 30B tokens only"
+image="https://Stellarflies.com/images/ROG.png"
+
+[[CURRENCIES]]
+code="ADA"
+issuer="GBK7MRL6PPZSZ2V4NRESC5K5PWQF3LCCDBMC75OYCIVLIL2QTMYRAVJP"
+status="live"
+display_decimals=4
+name="ADA"
+fixed_number=30000000000
+desc="ADA is issued by Stellarflies Team."
+conditions="Maximum supply of ADA is 30B tokens only"
+image="https://Stellarflies.com/images/ADA.png"
+
+[[CURRENCIES]]
+code="DELL"
+issuer="GBEHGJXNSALWYX5YTHF5KUKNZC7VWP7YD2AHPRAWIPKCDHYGTRKZ7THD"
+status="live"
+display_decimals=4
+name="DELL"
+fixed_number=30000000000
+desc="DELL is issued by Stellarflies Team."
+conditions="Maximum supply of DELL is 30B tokens only"
+image="https://Stellarflies.com/images/DELL.png"
+
+[[CURRENCIES]]
+code="DOT"
+issuer="GDDFPXW23VPFSOE26SNPDTEQS6KFAKAQJ7RM4XGXJTOCKMTXG5752DPI"
+status="live"
+display_decimals=4
+name="DOT"
+fixed_number=30000000000
+desc="DOT is issued by Stellarflies Team."
+conditions="Maximum supply of DOT is 30B tokens only"
+image="https://Stellarflies.com/images/DOT.png"
+
+[[CURRENCIES]]
+code="INTEL"
+issuer="GB6MHIDY6ONLF3AH6IMHALXW6FQYZVPWFOBGRQTXHKKSZ7HSIWZ6HSFB"
+status="live"
+display_decimals=4
+name="INTEL"
+fixed_number=30000000000
+desc="INTEL is issued by Stellarflies Team."
+conditions="Maximum supply of INTEL is 30B tokens only"
+image="https://Stellarflies.com/images/INTEL.png"
+
+[[CURRENCIES]]
+code="ALGO"
+issuer="GAOQOQSVJZN6QXASUAU3ECLT437UY7JMZUITA4NJTAKGMD262JSY2YTH"
+status="live"
+display_decimals=4
+name="ALGO"
+fixed_number=30000000000
+desc="ALGO is issued by Stellarflies Team."
+conditions="Maximum supply of ALGO is 30B tokens only"
+image="https://Stellarflies.com/images/ALGO.png"
+
+[[CURRENCIES]]
+code="FIREFOX"
+issuer="GB3E64ESLWU45PMTYUL53QS7PV3WKSPV4PNNPPEGC6ECKNZ5LSXYVAJO"
+status="live"
+display_decimals=4
+name="FIREFOX"
+fixed_number=30000000000
+desc="FIREFOX is issued by Stellarflies Team."
+conditions="Maximum supply of FIREFOX is 30B tokens only"
+image="https://Stellarflies.com/images/FIREFOX.png"
+
+[[CURRENCIES]]
+code="USDT"
+issuer="GCTAGGXL3WKNOQAY73LIOHBXAWQNKKI2SWVZ4OOH7SBYILJK3U6XLBLG"
+status="live"
+display_decimals=4
+name="USDT"
+fixed_number=30000000000
+desc="USDT is issued by Stellarflies Team."
+conditions="Maximum supply of USDT is 30B tokens only"
+image="https://Stellarflies.com/images/USDT.png"
+
+[[CURRENCIES]]
+code="BIRD"
+issuer="GBYNL2SKOFVSVBUS2B3EXKBL67MQJD7OHSCJFOH6KWFBMGWENVH5UMQT"
+status="live"
+display_decimals=4
+name="BIRD"
+fixed_number=30000000000
+desc="BIRD is issued by Stellarflies Team."
+conditions="Maximum supply of BIRD is 30B tokens only"
+image="https://Stellarflies.com/images/BIRD.png"
+
+[[CURRENCIES]]
+code="NETFLIX"
+issuer="GBU5QJJG6LVD53XB7L3XBXNJX4SDUWXR4V2YRK77Z44W47TUBOWLQFTT"
+status="live"
+display_decimals=4
+name="NETFLIX"
+fixed_number=30000000000
+desc="NETFLIX is issued by Stellarflies Team."
+conditions="Maximum supply of NETFLIX is 30B tokens only"
+image="https://Stellarflies.com/images/NETFLIX.png"
+
+[[CURRENCIES]]
+code="QUALCOMM"
+issuer="GBFUR57W53UJRROXHJ63USSGDWSAGWPZSSWWRDHH3CFPVEPY63KL6S66"
+status="live"
+display_decimals=4
+name="QUALCOMM"
+fixed_number=30000000000
+desc="QUALCOMM is issued by Stellarflies Team."
+conditions="Maximum supply of QUALCOMM is 30B tokens only"
+image="https://Stellarflies.com/images/QUALCOMM.png"
+
+[[CURRENCIES]]
+code="AIRPLANE"
+issuer="GAHXCDHVJ2KCSAD6NL3ZKBXZXWQND5ACCBIQJQJDS5B46DPI2WO34J6I"
+status="live"
+display_decimals=4
+name="AIRPLANE"
+fixed_number=30000000000
+desc="AIRPLANE is issued by Stellarflies Team."
+conditions="Maximum supply of AIRPLANE is 30B tokens only"
+image="https://Stellarflies.com/images/AIRPLANE.png"
+
+[[CURRENCIES]]
+code="KIN"
+issuer="GBKHS4G2SP72HLE3BMAMY7UAT6KIMA5XC2BINQVZY4PDOJL5HFD3Q37E"
+status="live"
+display_decimals=4
+name="KIN"
+fixed_number=30000000000
+desc="KIN is issued by Stellarflies Team."
+conditions="Maximum supply of KIN is 30B tokens only"
+image="https://Stellarflies.com/images/KIN.png"
+
+[[CURRENCIES]]
+code="NEURALINK"
+issuer="GDWX6LGLAOCSRKTCDENTPRDZFTRNGXFE7NLZZVUTY3LFLPAATPDY6S4N"
+status="live"
+display_decimals=4
+name="NEURALINK"
+fixed_number=30000000000
+desc="NEURALINK is issued by Stellarflies Team."
+conditions="Maximum supply of NEURALINK is 30B tokens only"
+image="https://Stellarflies.com/images/NEURALINK.png"
+
+[[CURRENCIES]]
+code="METAMASK"
+issuer="GDZLD7QTU4MGHUZ4QKG6WI2IFVCWKSTNNHJFJI2A3XFQSKP7X6VAZX2G"
+status="live"
+display_decimals=4
+name="METAMASK"
+fixed_number=30000000000
+desc="METAMASK is issued by Stellarflies Team."
+conditions="Maximum supply of METAMASK is 30B tokens only"
+image="https://Stellarflies.com/images/METAMASK.png"
+
+[[CURRENCIES]]
+code="SPOOKYSWAP"
+issuer="GBUV7RU3DJXKDPE7BKUSJEXGYA4W2EDZQMOEOIFMSQVO7NGPMBGSCREC"
+status="live"
+display_decimals=4
+name="SPOOKYSWAP"
+fixed_number=30000000000
+desc="SPOOKYSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of SPOOKYSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/SPOOKYSWAP.png"
+
+[[CURRENCIES]]
+code="UNISWAP"
+issuer="GBBGBYISK2YAAD4EHEQUDVADJMEY2GSU3ZT5E7OSOHZ655RCU2CQXAUV"
+status="live"
+display_decimals=4
+name="UNISWAP"
+fixed_number=30000000000
+desc="UNISWAP is issued by Stellarflies Team."
+conditions="Maximum supply of UNISWAP is 30B tokens only"
+image="https://Stellarflies.com/images/UNISWAP.png"
+
+[[CURRENCIES]]
+code="CHAINLINK"
+issuer="GB6L6V3336NCS6QA6PUSRUVZKBRSJPATWBBLCWGOWMTIKNT45OHRW7P2"
+status="live"
+display_decimals=4
+name="CHAINLINK"
+fixed_number=30000000000
+desc="CHAINLINK is issued by Stellarflies Team."
+conditions="Maximum supply of CHAINLINK is 30B tokens only"
+image="https://Stellarflies.com/images/CHAINLINK.png"
+
+[[CURRENCIES]]
+code="FANTOM"
+issuer="GBL7ULYT5M24XK6DV4U2S35VPW7QIUONF55OCUNMDDMGACQV4QS2UKJD"
+status="live"
+display_decimals=4
+name="FANTOM"
+fixed_number=30000000000
+desc="FANTOM is issued by Stellarflies Team."
+conditions="Maximum supply of FANTOM is 30B tokens only"
+image="https://Stellarflies.com/images/FANTOM.png"
+
+[[CURRENCIES]]
+code="SUSHISWAP"
+issuer="GBA64GG27DWXFF5VELTOXRVUVDHJYXXOCQSJJ6WXOHSWTE6GSMMYPJQ4"
+status="live"
+display_decimals=4
+name="SUSHISWAP"
+fixed_number=30000000000
+desc="SUSHISWAP is issued by Stellarflies Team."
+conditions="Maximum supply of SUSHISWAP is 30B tokens only"
+image="https://Stellarflies.com/images/SUSHISWAP.png"
+
+[[CURRENCIES]]
+code="LUNA"
+issuer="GAWYZHL2EI3YAS6FHI6SEM62KXIFDGFANGZ2OTJX4JK6EDRG5NDG35R6"
+status="live"
+display_decimals=4
+name="LUNA"
+fixed_number=30000000000
+desc="LUNA is issued by Stellarflies Team."
+conditions="Maximum supply of LUNA is 30B tokens only"
+image="https://Stellarflies.com/images/LUNA.png"
+
+[[CURRENCIES]]
+code="CURVE"
+issuer="GBO3ENTGNSPB575XHUYJANBVMFWGR74PCPFDSKFNDEWMKSP5WQFWWIDP"
+status="live"
+display_decimals=4
+name="CURVE"
+fixed_number=30000000000
+desc="CURVE is issued by Stellarflies Team."
+conditions="Maximum supply of CURVE is 30B tokens only"
+image="https://Stellarflies.com/images/CURVE.png"
+
+[[CURRENCIES]]
+code="OSMOSIS"
+issuer="GBUIXSGKGEJDULIFE4POPZAEASMYCMDKQFHPLHYYV3WXU27CS3LA7VHF"
+status="live"
+display_decimals=4
+name="OSMOSIS"
+fixed_number=30000000000
+desc="OSMOSIS is issued by Stellarflies Team."
+conditions="Maximum supply of OSMOSIS is 30B tokens only"
+image="https://Stellarflies.com/images/OSMOSIS.png"
+
+[[CURRENCIES]]
+code="SECRET"
+issuer="GD2GO2CNJWHHZNJLUR54AV4RJ3OTJAOTEE4YHMRTBP7IJW5IF6H3M32U"
+status="live"
+display_decimals=4
+name="SECRET"
+fixed_number=30000000000
+desc="SECRET is issued by Stellarflies Team."
+conditions="Maximum supply of SECRET is 30B tokens only"
+image="https://Stellarflies.com/images/SECRET.png"
+
+[[CURRENCIES]]
+code="SPIRITSWAP"
+issuer="GAU7EYUDNKDCW4Y2UCSLQOS6PLIWBT67GMBLG6B66BJSAO4UO4TNRBBI"
+status="live"
+display_decimals=4
+name="SPIRITSWAP"
+fixed_number=30000000000
+desc="SPIRITSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of SPIRITSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/SPIRITSWAP.png"
+
+[[CURRENCIES]]
+code="1INCH"
+issuer="GCUMUYEBGHCFDGQBKGW74T3V2OXK3UB25REZP4ASKWNEQJN3YJE6T4Z6"
+status="live"
+display_decimals=4
+name="1INCH"
+fixed_number=30000000000
+desc="1INCH is issued by Stellarflies Team."
+conditions="Maximum supply of 1INCH is 30B tokens only"
+image="https://Stellarflies.com/images/1INCH.png"
+
+[[CURRENCIES]]
+code="SWAPR"
+issuer="GDX6LOQJJK6LYYB57IPE7B4JGAEH33QWFWMAMSCBTY2MPFHEN7U34SR7"
+status="live"
+display_decimals=4
+name="SWAPR"
+fixed_number=30000000000
+desc="SWAPR is issued by Stellarflies Team."
+conditions="Maximum supply of SWAPR is 30B tokens only"
+image="https://Stellarflies.com/images/SWAPR.png"
+
+[[CURRENCIES]]
+code="SERUMDEX"
+issuer="GB6IHDBUS3NAPE35ZSV2YD7RJBTRLGHGCVRPLTCM4T2YARUTM5DGXNFG"
+status="live"
+display_decimals=4
+name="SERUMDEX"
+fixed_number=30000000000
+desc="SERUMDEX is issued by Stellarflies Team."
+conditions="Maximum supply of SERUMDEX is 30B tokens only"
+image="https://Stellarflies.com/images/SERUMDEX.png"
+
+[[CURRENCIES]]
+code="DODO"
+issuer="GCG73Z2VBZDILU44DZH6442KS5VEVTYQ56KYLWB2LHJHYDCDD5PQPGEO"
+status="live"
+display_decimals=4
+name="DODO"
+fixed_number=30000000000
+desc="DODO is issued by Stellarflies Team."
+conditions="Maximum supply of DODO is 30B tokens only"
+image="https://Stellarflies.com/images/DODO.png"
+
+[[CURRENCIES]]
+code="RAYDIUM"
+issuer="GCME3VVAVUWWTB754PRGYSBAIGEXTSZYMGKOOEVZADKO5PYXGBHYBGNK"
+status="live"
+display_decimals=4
+name="RAYDIUM"
+fixed_number=30000000000
+desc="RAYDIUM is issued by Stellarflies Team."
+conditions="Maximum supply of RAYDIUM is 30B tokens only"
+image="https://Stellarflies.com/images/RAYDIUM.png"
+
+[[CURRENCIES]]
+code="BITCRATIC"
+issuer="GCUICXYSW7AK7KJDYZC4KTSGUNLXO72AXQMI2K46BTVYS3NXWHHY3G5U"
+status="live"
+display_decimals=4
+name="BITCRATIC"
+fixed_number=30000000000
+desc="BITCRATIC is issued by Stellarflies Team."
+conditions="Maximum supply of BITCRATIC is 30B tokens only"
+image="https://Stellarflies.com/images/BITCRATIC.png"
+
+[[CURRENCIES]]
+code="ASTROPORT"
+issuer="GAN5E6EZBUB32XLVOUM3NZGKC5CKTQWBRSFHQHEICYEDHQF33BBE5OZM"
+status="live"
+display_decimals=4
+name="ASTROPORT"
+fixed_number=30000000000
+desc="ASTROPORT is issued by Stellarflies Team."
+conditions="Maximum supply of ASTROPORT is 30B tokens only"
+image="https://Stellarflies.com/images/ASTROPORT.png"
+
+[[CURRENCIES]]
+code="TRADERJOE"
+issuer="GCCDBNED655IAHQ2ZLHZH5WEGGMMOECNJP24FYYZY7W5VUZ4322CUIDY"
+status="live"
+display_decimals=4
+name="TRADERJOE"
+fixed_number=30000000000
+desc="TRADERJOE is issued by Stellarflies Team."
+conditions="Maximum supply of TRADERJOE is 30B tokens only"
+image="https://Stellarflies.com/images/TRADERJOE.png"
+
+[[CURRENCIES]]
+code="JUPITER"
+issuer="GAGVQ2NGMFNUDYVW45UI4L7XMC6PUE3HS5CNQQ6HBUAKFHFTRWU4LUQH"
+status="live"
+display_decimals=4
+name="JUPITER"
+fixed_number=30000000000
+desc="JUPITER is issued by Stellarflies Team."
+conditions="Maximum supply of JUPITER is 30B tokens only"
+image="https://Stellarflies.com/images/JUPITER.png"
+
+[[CURRENCIES]]
+code="BISWAP"
+issuer="GAKHM5G42NZTDQDHGK6U2TFZWL5UP6X2LB7JDLDG3XE3U3YLNAP7B4C7"
+status="live"
+display_decimals=4
+name="BISWAP"
+fixed_number=30000000000
+desc="BISWAP is issued by Stellarflies Team."
+conditions="Maximum supply of BISWAP is 30B tokens only"
+image="https://Stellarflies.com/images/BISWAP.png"
+
+[[CURRENCIES]]
+code="BEETHOVEN"
+issuer="GDPRFHA7O24BK2EL3LVBJGF7MSO2WKNT3FDIBLSBLI4BUUFO7TXY2ZZY"
+status="live"
+display_decimals=4
+name="BEETHOVEN"
+fixed_number=30000000000
+desc="BEETHOVEN is issued by Stellarflies Team."
+conditions="Maximum supply of BEETHOVEN is 30B tokens only"
+image="https://Stellarflies.com/images/BEETHOVEN.png"
+
+[[CURRENCIES]]
+code="KATANA"
+issuer="GCNWIPRJ74H5NIDELVRQMGZGYQM3JWM7AOTHPSKLCCDCGHGYW63EX5Z3"
+status="live"
+display_decimals=4
+name="KATANA"
+fixed_number=30000000000
+desc="KATANA is issued by Stellarflies Team."
+conditions="Maximum supply of KATANA is 30B tokens only"
+image="https://Stellarflies.com/images/KATANA.png"
+
+[[CURRENCIES]]
+code="TERRASWAP"
+issuer="GAXDYUQ37PBDMBIP37HANC7BLXORRN3FOBBT3FCZYOZCYR2QMOOPWBIA"
+status="live"
+display_decimals=4
+name="TERRASWAP"
+fixed_number=30000000000
+desc="TERRASWAP is issued by Stellarflies Team."
+conditions="Maximum supply of TERRASWAP is 30B tokens only"
+image="https://Stellarflies.com/images/TERRASWAP.png"
+
+[[CURRENCIES]]
+code="KUSWAP"
+issuer="GC7G64UO273B6JEH3RZVQHT4SZFXSUMOVDVA7IUYJRJAEVTE6OP3DE32"
+status="live"
+display_decimals=4
+name="KUSWAP"
+fixed_number=30000000000
+desc="KUSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of KUSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/KUSWAP.png"
+
+[[CURRENCIES]]
+code="QUICKSWAP"
+issuer="GDTTKYLGKHQYFBNATE5P6YS4FXD3DF5EUPI2K76QH73LLNUMCNWQDZCF"
+status="live"
+display_decimals=4
+name="QUICKSWAP"
+fixed_number=30000000000
+desc="QUICKSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of QUICKSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/QUICKSWAP.png"
+
+[[CURRENCIES]]
+code="BALANCER"
+issuer="GCRKMW67X36TM7GPEJZ46UJR54HO4QV6XDTVYRHERNBJN7RSSWMDC27F"
+status="live"
+display_decimals=4
+name="BALANCER"
+fixed_number=30000000000
+desc="BALANCER is issued by Stellarflies Team."
+conditions="Maximum supply of BALANCER is 30B tokens only"
+image="https://Stellarflies.com/images/BALANCER.png"
+
+[[CURRENCIES]]
+code="MMFINANCE"
+issuer="GDTWRDEMMYMFYGQQ2EBCLADU47JF6NZVLYS3FWPRK7AKHZSAOBU6ZB7B"
+status="live"
+display_decimals=4
+name="MMFINANCE"
+fixed_number=30000000000
+desc="MMFINANCE is issued by Stellarflies Team."
+conditions="Maximum supply of MMFINANCE is 30B tokens only"
+image="https://Stellarflies.com/images/MMFINANCE.png"
+
+[[CURRENCIES]]
+code="PANGOLIN"
+issuer="GC7XTLNYOJJ4OM5NCXAGFPK3C7CGVZV5FFM4S6LVI3RUEVETEBTKBDFR"
+status="live"
+display_decimals=4
+name="PANGOLIN"
+fixed_number=30000000000
+desc="PANGOLIN is issued by Stellarflies Team."
+conditions="Maximum supply of PANGOLIN is 30B tokens only"
+image="https://Stellarflies.com/images/PANGOLIN.png"
+
+[[CURRENCIES]]
+code="THORCHAIN"
+issuer="GC5KZAXO67QIAXHFXZM6OWI6OP5W426VW3ULATCODNVKGJ4UQ76GKWTF"
+status="live"
+display_decimals=4
+name="THORCHAIN"
+fixed_number=30000000000
+desc="THORCHAIN is issued by Stellarflies Team."
+conditions="Maximum supply of THORCHAIN is 30B tokens only"
+image="https://Stellarflies.com/images/THORCHAIN.png"
+
+[[CURRENCIES]]
+code="SHIBASWAP"
+issuer="GBT6WJNDXYX4SJGZHSIJ7QA7CMQKPEOO5RUDB246EC6U4Y6PCA5G3EV2"
+status="live"
+display_decimals=4
+name="SHIBASWAP"
+fixed_number=30000000000
+desc="SHIBASWAP is issued by Stellarflies Team."
+conditions="Maximum supply of SHIBASWAP is 30B tokens only"
+image="https://Stellarflies.com/images/SHIBASWAP.png"
+
+[[CURRENCIES]]
+code="TRISOLARIS"
+issuer="GDTHBAY2JQ2YFHARZSSMIUZKC4GC537JZ2BOCEFANR6SYMPFRJ7NE4ML"
+status="live"
+display_decimals=4
+name="TRISOLARIS"
+fixed_number=30000000000
+desc="TRISOLARIS is issued by Stellarflies Team."
+conditions="Maximum supply of TRISOLARIS is 30B tokens only"
+image="https://Stellarflies.com/images/TRISOLARIS.png"
+
+[[CURRENCIES]]
+code="TETHYS"
+issuer="GDLFIJ62EMFYRSYAYYOYYVOTNVGBOC44LSU4VRDUMNMZOCRPPJ5I4LUH"
+status="live"
+display_decimals=4
+name="TETHYS"
+fixed_number=30000000000
+desc="TETHYS is issued by Stellarflies Team."
+conditions="Maximum supply of TETHYS is 30B tokens only"
+image="https://Stellarflies.com/images/TETHYS.png"
+
+[[CURRENCIES]]
+code="NETSWAP"
+issuer="GBQJIS552DTWH4KFEFEOMYYYDBKZDKIE3WPSPVXVLUTK6VZRLLCPVFMY"
+status="live"
+display_decimals=4
+name="NETSWAP"
+fixed_number=30000000000
+desc="NETSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of NETSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/NETSWAP.png"
+
+[[CURRENCIES]]
+code="TOMBSWAP"
+issuer="GBIHCEHF353GK7DSH4TYSKVG7TCB3E5PTJ42PXADJJH6QMNPKR5VSHC4"
+status="live"
+display_decimals=4
+name="TOMBSWAP"
+fixed_number=30000000000
+desc="TOMBSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of TOMBSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/TOMBSWAP.png"
+
+[[CURRENCIES]]
+code="SABER"
+issuer="GDGOT2LMBSR2M66XIZ6HDILLYKY7QSRR3FVD2V3XITRETXRYVH4O2RCB"
+status="live"
+display_decimals=4
+name="SABER"
+fixed_number=30000000000
+desc="SABER is issued by Stellarflies Team."
+conditions="Maximum supply of SABER is 30B tokens only"
+image="https://Stellarflies.com/images/SABER.png"
+
+[[CURRENCIES]]
+code="VVS"
+issuer="GAQ7VLPKB3GWOIB7TFYZBDUNUV3664JFFVPTFJXN4WZ2FVCQE74JKAT3"
+status="live"
+display_decimals=4
+name="VVS"
+fixed_number=30000000000
+desc="VVS is issued by Stellarflies Team."
+conditions="Maximum supply of VVS is 30B tokens only"
+image="https://Stellarflies.com/images/VVS.png"
+
+[[CURRENCIES]]
+code="APESWAP"
+issuer="GDA75XSCUKS3WXZ34TTK6GSLTHAOXF3SQD6IDUHJLP3HDRI5H75MRAID"
+status="live"
+display_decimals=4
+name="APESWAP"
+fixed_number=30000000000
+desc="APESWAP is issued by Stellarflies Team."
+conditions="Maximum supply of APESWAP is 30B tokens only"
+image="https://Stellarflies.com/images/APESWAP.png"
+
+[[CURRENCIES]]
+code="BANCOR"
+issuer="GCX35AVFD2ZF4UTPZLYRRU5N3UBE3GZYZMF6MYASCFDM7A6E5N7RQ5HA"
+status="live"
+display_decimals=4
+name="BANCOR"
+fixed_number=30000000000
+desc="BANCOR is issued by Stellarflies Team."
+conditions="Maximum supply of BANCOR is 30B tokens only"
+image="https://Stellarflies.com/images/BANCOR.png"
+
+[[CURRENCIES]]
+code="APOLLOX"
+issuer="GBDSFIXDY7ICGQ6POPFMTKFCNEZ3N2UR2XD5T3LJ2UVKUNZUITISFBEX"
+status="live"
+display_decimals=4
+name="APOLLOX"
+fixed_number=30000000000
+desc="APOLLOX is issued by Stellarflies Team."
+conditions="Maximum supply of APOLLOX is 30B tokens only"
+image="https://Stellarflies.com/images/APOLLOX.png"
+
+[[CURRENCIES]]
+code="DFX"
+issuer="GC4VTTRQL5XM2BS5KN66ILD3FFIADZV6K2S3FUBXZ5BKACQOSFRYOVJY"
+status="live"
+display_decimals=4
+name="DFX"
+fixed_number=30000000000
+desc="DFX is issued by Stellarflies Team."
+conditions="Maximum supply of DFX is 30B tokens only"
+image="https://Stellarflies.com/images/DFX.png"
+
+[[CURRENCIES]]
+code="DERI"
+issuer="GATGSLCR5ALIZZUA2J2O2Z6EUDSLNRROX6QH7DWB5RU2H4DCFXOYVDWD"
+status="live"
+display_decimals=4
+name="DERI"
+fixed_number=30000000000
+desc="DERI is issued by Stellarflies Team."
+conditions="Maximum supply of DERI is 30B tokens only"
+image="https://Stellarflies.com/images/DERI.png"
+
+[[CURRENCIES]]
+code="DRIFT"
+issuer="GDWYFRGHSGUOERCUNTYACMSTRRD2B3TZROR3ZFRIPT4CCEKTMZDJODU3"
+status="live"
+display_decimals=4
+name="DRIFT"
+fixed_number=30000000000
+desc="DRIFT is issued by Stellarflies Team."
+conditions="Maximum supply of DRIFT is 30B tokens only"
+image="https://Stellarflies.com/images/DRIFT.png"
+
+[[CURRENCIES]]
+code="INJECTIVE"
+issuer="GDBW4XYQDRIAP6Y5HR32BA4XNXAZJY4UMPQKOMLLAAWASCNKEDUO6IXR"
+status="live"
+display_decimals=4
+name="INJECTIVE"
+fixed_number=30000000000
+desc="INJECTIVE is issued by Stellarflies Team."
+conditions="Maximum supply of INJECTIVE is 30B tokens only"
+image="https://Stellarflies.com/images/INJECTIVE.png"
+
+[[CURRENCIES]]
+code="TOKENLON"
+issuer="GBPAKNWCKT4JDD3CGH2CZ4LGDSK75X4P3MTH75KMH64BVKYBMAKIAIVK"
+status="live"
+display_decimals=4
+name="TOKENLON"
+fixed_number=30000000000
+desc="TOKENLON is issued by Stellarflies Team."
+conditions="Maximum supply of TOKENLON is 30B tokens only"
+image="https://Stellarflies.com/images/TOKENLON.png"
+
+[[CURRENCIES]]
+code="KINEPROTOCOL"
+issuer="GCVXEGXMDQWWIA742KOEUVAUQSOH2FSDYCFKGQP2J6V56L3SU53Z657S"
+status="live"
+display_decimals=4
+name="KINEPROTOCOL"
+fixed_number=30000000000
+desc="KINEPROTOCOL is issued by Stellarflies Team."
+conditions="Maximum supply of KINEPROTOCOL is 30B tokens only"
+image="https://Stellarflies.com/images/KINEPROTOCOL.png"
+
+[[CURRENCIES]]
+code="HONEYSWAP"
+issuer="GBKYJWKF2FHTHXA7CDOSN775X3O75IEEBXWDZLKIW3OMAT4IBWIJ73TD"
+status="live"
+display_decimals=4
+name="HONEYSWAP"
+fixed_number=30000000000
+desc="HONEYSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of HONEYSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/HONEYSWAP.png"
+
+[[CURRENCIES]]
+code="PERPETUAL"
+issuer="GDYUSPGYJNCIHNTMRFCU3PY66QMUPU5QSRAKSYKT4TGGE3DIQRQWD3OJ"
+status="live"
+display_decimals=4
+name="PERPETUAL"
+fixed_number=30000000000
+desc="PERPETUAL is issued by Stellarflies Team."
+conditions="Maximum supply of PERPETUAL is 30B tokens only"
+image="https://Stellarflies.com/images/PERPETUAL.png"
+
+[[CURRENCIES]]
+code="OPENOCEAN"
+issuer="GCYLYXMY3BCZBCKA6O6DXLZUYHKWTVD34VUYBKTUPN6L2B6YAXHQ3BF2"
+status="live"
+display_decimals=4
+name="OPENOCEAN"
+fixed_number=30000000000
+desc="OPENOCEAN is issued by Stellarflies Team."
+conditions="Maximum supply of OPENOCEAN is 30B tokens only"
+image="https://Stellarflies.com/images/OPENOCEAN.png"
+
+[[CURRENCIES]]
+code="MAIAR"
+issuer="GDPWPINAVCWZXGFTPZLS65P5R2OPHSCT3MWITNF6RBMTE47ZGZCIOHH4"
+status="live"
+display_decimals=4
+name="MAIAR"
+fixed_number=30000000000
+desc="MAIAR is issued by Stellarflies Team."
+conditions="Maximum supply of MAIAR is 30B tokens only"
+image="https://Stellarflies.com/images/MAIAR.png"
+
+[[CURRENCIES]]
+code="IDEX"
+issuer="GB357LR55V7SBZNLCILYNOWXA7M7SYOV3SO2SEVUEWENV52ZHZXCHSQZ"
+status="live"
+display_decimals=4
+name="IDEX"
+fixed_number=30000000000
+desc="IDEX is issued by Stellarflies Team."
+conditions="Maximum supply of IDEX is 30B tokens only"
+image="https://Stellarflies.com/images/IDEX.png"
+
+[[CURRENCIES]]
+code="MDEX"
+issuer="GCWWO2TKCVIHBNE2SJGYDYPXMW5VL4Z5KNATGP6W35SB5DV2MLVV3UVI"
+status="live"
+display_decimals=4
+name="MDEX"
+fixed_number=30000000000
+desc="MDEX is issued by Stellarflies Team."
+conditions="Maximum supply of MDEX is 30B tokens only"
+image="https://Stellarflies.com/images/MDEX.png"
+
+[[CURRENCIES]]
+code="STELLASWAP"
+issuer="GC6WAZIPYA5IRQCS7UND36CG2UPGVYNW4FCYSIGWYHCKCL2L56WO4PO3"
+status="live"
+display_decimals=4
+name="STELLASWAP"
+fixed_number=30000000000
+desc="STELLASWAP is issued by Stellarflies Team."
+conditions="Maximum supply of STELLASWAP is 30B tokens only"
+image="https://Stellarflies.com/images/STELLASWAP.png"
+
+[[CURRENCIES]]
+code="ALDRIN"
+issuer="GAV246IZEROPUFSSU7U3WA5OMUIWSOD4SJUY33WRFDPAVLRPHNA4V7AK"
+status="live"
+display_decimals=4
+name="ALDRIN"
+fixed_number=30000000000
+desc="ALDRIN is issued by Stellarflies Team."
+conditions="Maximum supply of ALDRIN is 30B tokens only"
+image="https://Stellarflies.com/images/ALDRIN.png"
+
+[[CURRENCIES]]
+code="DEVERSIFI"
+issuer="GCPHFZ7KQYSTQ5MZS7QFEVANCC5ZC74YDLHA525ZOLUPZT7T3X6K7EZA"
+status="live"
+display_decimals=4
+name="DEVERSIFI"
+fixed_number=30000000000
+desc="DEVERSIFI is issued by Stellarflies Team."
+conditions="Maximum supply of DEVERSIFI is 30B tokens only"
+image="https://Stellarflies.com/images/DEVERSIFI.png"
+
+[[CURRENCIES]]
+code="BEAMSWAP"
+issuer="GC7B6WXRWSTYN5Q7PG23YZ5HZTLAVFK56OXADWKOW5U2X3B3FJO2RMZB"
+status="live"
+display_decimals=4
+name="BEAMSWAP"
+fixed_number=30000000000
+desc="BEAMSWAP is issued by Stellarflies Team."
+conditions="Maximum supply of BEAMSWAP is 30B tokens only"
+image="https://Stellarflies.com/images/BEAMSWAP.png"
+
+[[CURRENCIES]]
+code="DYDX"
+issuer="GAOB2XQY6CUSRC6QEOT6IXUZ44KTWRZCEWDEGBSD5QJPT3T5Q2F2BY6W"
+status="live"
+display_decimals=4
+name="DYDX"
+fixed_number=30000000000
+desc="DYDX is issued by Stellarflies Team."
+conditions="Maximum supply of DYDX is 30B tokens only"
+image="https://Stellarflies.com/images/DYDX.png"
+
+[[CURRENCIES]]
+code="REFFINANCE"
+issuer="GDYMQKWP57JHLKIOEW5V622K47A3EBLNYYPMJMONXHDGEEYDEU34QILK"
+status="live"
+display_decimals=4
+name="REFFINANCE"
+fixed_number=30000000000
+desc="REFFINANCE is issued by Stellarflies Team."
+conditions="Maximum supply of REFFINANCE is 30B tokens only"
+image="https://Stellarflies.com/images/REFFINANCE.png"
+
+[[CURRENCIES]]
+code="BINANCE"
+issuer="GCAXTZVWWLEZBNGFAHUWLLTQOM2FJMS7DBVMAIANQREPKZ3V4PL3RRSS"
+status="live"
+display_decimals=4
+name="BINANCE"
+fixed_number=30000000000
+desc="BINANCE is issued by Stellarflies Team."
+conditions="Maximum supply of BINANCE is 30B tokens only"
+image="https://Stellarflies.com/images/BINANCE.png"
+
+[[CURRENCIES]]
+code="COINBASE"
+issuer="GDQCMZRUVEYCQXQ3Z5TDVSXROIH467P33FEOPRJMCPRV6LXHBLUXGGDM"
+status="live"
+display_decimals=4
+name="COINBASE"
+fixed_number=30000000000
+desc="COINBASE is issued by Stellarflies Team."
+conditions="Maximum supply of COINBASE is 30B tokens only"
+image="https://Stellarflies.com/images/COINBASE.png"
+
+[[CURRENCIES]]
+code="KRAKEN"
+issuer="GBGPAX4C2EH2ABWWP4MXH5MECPRKV3OXRMHZZOLY3YZMMEN4PXHUAWLU"
+status="live"
+display_decimals=4
+name="KRAKEN"
+fixed_number=30000000000
+desc="KRAKEN is issued by Stellarflies Team."
+conditions="Maximum supply of KRAKEN is 30B tokens only"
+image="https://Stellarflies.com/images/KRAKEN.png"
+
+[[CURRENCIES]]
+code="FTX"
+issuer="GCQ5CAYC3G3RE24DHSO4TPNY6Z5L5WXKVC5OOJQPHCPEY4VIMA5PKBW6"
+status="live"
+display_decimals=4
+name="FTX"
+fixed_number=30000000000
+desc="FTX is issued by Stellarflies Team."
+conditions="Maximum supply of FTX is 30B tokens only"
+image="https://Stellarflies.com/images/FTX.png"
+
+[[CURRENCIES]]
+code="HUOBI"
+issuer="GCV4PN7OWOFXQ666KEXAH7OGQOO25SQECWFKMDZRPUMSRJJDAMOZRQTG"
+status="live"
+display_decimals=4
+name="HUOBI"
+fixed_number=30000000000
+desc="HUOBI is issued by Stellarflies Team."
+conditions="Maximum supply of HUOBI is 30B tokens only"
+image="https://Stellarflies.com/images/HUOBI.png"
+
+[[CURRENCIES]]
+code="BYBIT"
+issuer="GDGBPI3ACTX6AZ64HZ5JQVMNZQU2NMK6PSM2XESNZU2GW4JQU3SO3FEZ"
+status="live"
+display_decimals=4
+name="BYBIT"
+fixed_number=30000000000
+desc="BYBIT is issued by Stellarflies Team."
+conditions="Maximum supply of BYBIT is 30B tokens only"
+image="https://Stellarflies.com/images/BYBIT.png"
+
+[[CURRENCIES]]
+code="KUCOIN"
+issuer="GDVLT6Z56NJNIL52GUU6T2JYERTLAO6PYNEWUJQHPIM3TJPQAC6LDPRQ"
+status="live"
+display_decimals=4
+name="KUCOIN"
+fixed_number=30000000000
+desc="KUCOIN is issued by Stellarflies Team."
+conditions="Maximum supply of KUCOIN is 30B tokens only"
+image="https://Stellarflies.com/images/KUCOIN.png"
+
+[[CURRENCIES]]
+code="BITFLYER"
+issuer="GDSZTYVYMVU4PBBKXQT4WR7FFUQF6GMQKIECPNC73TCENU6JNUXMJM4F"
+status="live"
+display_decimals=4
+name="BITFLYER"
+fixed_number=30000000000
+desc="BITFLYER is issued by Stellarflies Team."
+conditions="Maximum supply of BITFLYER is 30B tokens only"
+image="https://Stellarflies.com/images/BITFLYER.png"
+
+[[CURRENCIES]]
+code="GEMINI"
+issuer="GBBKHHZJQRU6XZ3T5X3MCX5IDOQZDGYQPMMFLC4XWBATVRYHZYV43CFJ"
+status="live"
+display_decimals=4
+name="GEMINI"
+fixed_number=30000000000
+desc="GEMINI is issued by Stellarflies Team."
+conditions="Maximum supply of GEMINI is 30B tokens only"
+image="https://Stellarflies.com/images/GEMINI.png"
+
+[[CURRENCIES]]
+code="BITSTAMP"
+issuer="GAVPZXJAVRJED32SCHI3BXUNCZYA5DGUHNL5EN45SSKLVD7LFRVOFRXD"
+status="live"
+display_decimals=4
+name="BITSTAMP"
+fixed_number=30000000000
+desc="BITSTAMP is issued by Stellarflies Team."
+conditions="Maximum supply of BITSTAMP is 30B tokens only"
+image="https://Stellarflies.com/images/BITSTAMP.png"
+
+[[CURRENCIES]]
+code="UPBIT"
+issuer="GDOVWIGOLJ4E45D7PJ2JIVGA5T2LBJZVKZJTRAX7VEWA57B2CZISGKNY"
+status="live"
+display_decimals=4
+name="UPBIT"
+fixed_number=30000000000
+desc="UPBIT is issued by Stellarflies Team."
+conditions="Maximum supply of UPBIT is 30B tokens only"
+image="https://Stellarflies.com/images/UPBIT.png"
+
+[[CURRENCIES]]
+code="BITFINEX"
+issuer="GB6UDKATP4WG75U5WMU7LBFAMOKNJXPEV7MXYKWZYJRJJ4ZAWHRXHLTW"
+status="live"
+display_decimals=4
+name="BITFINEX"
+fixed_number=30000000000
+desc="BITFINEX is issued by Stellarflies Team."
+conditions="Maximum supply of BITFINEX is 30B tokens only"
+image="https://Stellarflies.com/images/BITFINEX.png"
+
+[[CURRENCIES]]
+code="COINCHECK"
+issuer="GCHK5NDFIVVBNTIF7CM2XLM5BOVGPEHY5DILB22F3PTPLDX4R35Y6QRA"
+status="live"
+display_decimals=4
+name="COINCHECK"
+fixed_number=30000000000
+desc="COINCHECK is issued by Stellarflies Team."
+conditions="Maximum supply of COINCHECK is 30B tokens only"
+image="https://Stellarflies.com/images/COINCHECK.png"
+
+[[CURRENCIES]]
+code="BITHUMB"
+issuer="GCMITOOYMGM22MPBVIJLC6NHMHVGDCFXFAKMBZW7EM46THFP7JDZBREV"
+status="live"
+display_decimals=4
+name="BITHUMB"
+fixed_number=30000000000
+desc="BITHUMB is issued by Stellarflies Team."
+conditions="Maximum supply of BITHUMB is 30B tokens only"
+image="https://Stellarflies.com/images/BITHUMB.png"
+
+[[CURRENCIES]]
+code="FTXUS"
+issuer="GDWNB7EMRUSWNJCKP4KNXIKZ2A34ELGVGNYGJDBMOUN3NVJQTMNUOMN5"
+status="live"
+display_decimals=4
+name="FTXUS"
+fixed_number=30000000000
+desc="FTXUS is issued by Stellarflies Team."
+conditions="Maximum supply of FTXUS is 30B tokens only"
+image="https://Stellarflies.com/images/FTXUS.png"
+
+[[CURRENCIES]]
+code="MEXC"
+issuer="GBOBK2UMB3R24T4Y46MQJC2D6DGP5IBUJ2YJEPPL2F376TUGVHSRIJ5K"
+status="live"
+display_decimals=4
+name="MEXC"
+fixed_number=30000000000
+desc="MEXC is issued by Stellarflies Team."
+conditions="Maximum supply of MEXC is 30B tokens only"
+image="https://Stellarflies.com/images/MEXC.png"
+
+[[CURRENCIES]]
+code="OKX"
+issuer="GCLFZKAFFHCIOIFR52UT7SR7K67TGNW7XJB4BHONQRRGF4IWU4ZXPW72"
+status="live"
+display_decimals=4
+name="OKX"
+fixed_number=30000000000
+desc="OKX is issued by Stellarflies Team."
+conditions="Maximum supply of OKX is 30B tokens only"
+image="https://Stellarflies.com/images/OKX.png"
+
+[[CURRENCIES]]
+code="POLONIEX"
+issuer="GDQJ2MW47KOCFR7DOM575UJ3BGJEORYHXFVGP5O5JPZXCJ24BQKD2OFA"
+status="live"
+display_decimals=4
+name="POLONIEX"
+fixed_number=30000000000
+desc="POLONIEX is issued by Stellarflies Team."
+conditions="Maximum supply of POLONIEX is 30B tokens only"
+image="https://Stellarflies.com/images/POLONIEX.png"
+
+[[CURRENCIES]]
+code="COINONE"
+issuer="GD2HGDOPCYAEAQHCALWQJZR2BBRZS5SNP74HW6ECVOXTI64YND4FUFXD"
+status="live"
+display_decimals=4
+name="COINONE"
+fixed_number=30000000000
+desc="COINONE is issued by Stellarflies Team."
+conditions="Maximum supply of COINONE is 30B tokens only"
+image="https://Stellarflies.com/images/COINONE.png"
+
+[[CURRENCIES]]
+code="LIQUID"
+issuer="GA2ON3G2Y2Z2BHOXEBBD6ALA6L3XAFPXFMSBDYEEQFI2SHGJSCBTWDKU"
+status="live"
+display_decimals=4
+name="LIQUID"
+fixed_number=30000000000
+desc="LIQUID is issued by Stellarflies Team."
+conditions="Maximum supply of LIQUID is 30B tokens only"
+image="https://Stellarflies.com/images/LIQUID.png"
+
+[[CURRENCIES]]
+code="COINLISTPRO"
+issuer="GBSYZIUTYW7BBRUH375JJGCGKN56SIMDUG2NICU6EVDSEWVXEGV7LKFJ"
+status="live"
+display_decimals=4
+name="COINLISTPRO"
+fixed_number=30000000000
+desc="COINLISTPRO is issued by Stellarflies Team."
+conditions="Maximum supply of COINLISTPRO is 30B tokens only"
+image="https://Stellarflies.com/images/COINLISTPRO.png"
+
+[[CURRENCIES]]
+code="LBANK"
+issuer="GCOSYLBCM7SVWOIWS3VR35ET7SAA75GAKKBZLRBUXCFOPSRYEV36JHXB"
+status="live"
+display_decimals=4
+name="LBANK"
+fixed_number=30000000000
+desc="LBANK is issued by Stellarflies Team."
+conditions="Maximum supply of LBANK is 30B tokens only"
+image="https://Stellarflies.com/images/LBANK.png"
+
+[[CURRENCIES]]
+code="BITTREX"
+issuer="GAG3SQPAO2DEO2IYELFIXBHCFGEHYBP32ULAKUUHQXFJDH6MUCWPQ7VA"
+status="live"
+display_decimals=4
+name="BITTREX"
+fixed_number=30000000000
+desc="BITTREX is issued by Stellarflies Team."
+conditions="Maximum supply of BITTREX is 30B tokens only"
+image="https://Stellarflies.com/images/BITTREX.png"
+
+[[CURRENCIES]]
+code="OKCOIN"
+issuer="GCIUW3HCINJBIOGBKN6BJXHROQNVQ75ZBQGU5VU2WMU6Y4AQLAESX6TI"
+status="live"
+display_decimals=4
+name="OKCOIN"
+fixed_number=30000000000
+desc="OKCOIN is issued by Stellarflies Team."
+conditions="Maximum supply of OKCOIN is 30B tokens only"
+image="https://Stellarflies.com/images/OKCOIN.png"
+
+[[CURRENCIES]]
+code="BINANCETR"
+issuer="GDEJGTKRBMCUWTEI53EQNXL34COVIM2WNOR6BYDJSV25HE7ZVJDZHOHQ"
+status="live"
+display_decimals=4
+name="BINANCETR"
+fixed_number=30000000000
+desc="BINANCETR is issued by Stellarflies Team."
+conditions="Maximum supply of BINANCETR is 30B tokens only"
+image="https://Stellarflies.com/images/BINANCETR.png"
+
+[[CURRENCIES]]
+code="ZAIF"
+issuer="GD2Y5SVD3VCFMGGH4O3KJOFEHW6ARRR5R4JNILHBAD3XIEKJGOI2KDAF"
+status="live"
+display_decimals=4
+name="ZAIF"
+fixed_number=30000000000
+desc="ZAIF is issued by Stellarflies Team."
+conditions="Maximum supply of ZAIF is 30B tokens only"
+image="https://Stellarflies.com/images/ZAIF.png"
+
+[[CURRENCIES]]
+code="KORBIT"
+issuer="GCYURQN6BQASSRWYQG5MJQRYIOEKWPSSVOULN7H3YRXQCCW2R2ECMW7R"
+status="live"
+display_decimals=4
+name="KORBIT"
+fixed_number=30000000000
+desc="KORBIT is issued by Stellarflies Team."
+conditions="Maximum supply of KORBIT is 30B tokens only"
+image="https://Stellarflies.com/images/KORBIT.png"
+
+[[CURRENCIES]]
+code="XTCOM"
+issuer="GCTXWJQTTWGMH2PSFRDTPMM2HUCMHZ5JVTPYYTXPUEHLMWAAYR2YSWX3"
+status="live"
+display_decimals=4
+name="XTCOM"
+fixed_number=30000000000
+desc="XTCOM is issued by Stellarflies Team."
+conditions="Maximum supply of XTCOM is 30B tokens only"
+image="https://Stellarflies.com/images/XTCOM.png"
+
+[[CURRENCIES]]
+code="WHITEBIT"
+issuer="GDMX7C2GO24YGFVQG4F4DMLEXZDVDGTOC6SM2EKB27TG3FBTBL4IH42F"
+status="live"
+display_decimals=4
+name="WHITEBIT"
+fixed_number=30000000000
+desc="WHITEBIT is issued by Stellarflies Team."
+conditions="Maximum supply of WHITEBIT is 30B tokens only"
+image="https://Stellarflies.com/images/WHITEBIT.png"
+
+[[CURRENCIES]]
+code="DEEPCOIN"
+issuer="GDTVAC3BPXDNL75J3I5BKXPUV6CNEZTRGOLISGPADH75Z6YY44C52PI5"
+status="live"
+display_decimals=4
+name="DEEPCOIN"
+fixed_number=30000000000
+desc="DEEPCOIN is issued by Stellarflies Team."
+conditions="Maximum supply of DEEPCOIN is 30B tokens only"
+image="https://Stellarflies.com/images/DEEPCOIN.png"
+
+[[CURRENCIES]]
+code="CURRENCY"
+issuer="GCBYI53UMA637NGWEA2IMGESBGP7N4JWSJPZUBSF7GNUSUTBUMIRCGLK"
+status="live"
+display_decimals=4
+name="CURRENCY"
+fixed_number=30000000000
+desc="CURRENCY is issued by Stellarflies Team."
+conditions="Maximum supply of CURRENCY is 30B tokens only"
+image="https://Stellarflies.com/images/CURRENCY.png"
+
+[[CURRENCIES]]
+code="BLOCKCHAIN"
+issuer="GD4FKNEH4HLU24DXCKQ6VDNRRX4JO3ENFBVXBD6XBUFED7FWHBJZTGQC"
+status="live"
+display_decimals=4
+name="BLOCKCHAIN"
+fixed_number=30000000000
+desc="BLOCKCHAIN is issued by Stellarflies Team."
+conditions="Maximum supply of BLOCKCHAIN is 30B tokens only"
+image="https://Stellarflies.com/images/BLOCKCHAIN.png"
+
+[[CURRENCIES]]
+code="PROBIT"
+issuer="GB5P4CJ3SAJRCTNR36JCAACXWNCOQBPQ7OZGCGS4HPCTSOCMVVGVPOSC"
+status="live"
+display_decimals=4
+name="PROBIT"
+fixed_number=30000000000
+desc="PROBIT is issued by Stellarflies Team."
+conditions="Maximum supply of PROBIT is 30B tokens only"
+image="https://Stellarflies.com/images/PROBIT.png"
+
+[[CURRENCIES]]
+code="BITMAX"
+issuer="GBKPTPOBVQNY5YZHA7VT5QUVZRIHPENJQ3Z7I2D73BKVEQ5YQQHLZMPU"
+status="live"
+display_decimals=4
+name="BITMAX"
+fixed_number=30000000000
+desc="BITMAX is issued by Stellarflies Team."
+conditions="Maximum supply of BITMAX is 30B tokens only"
+image="https://Stellarflies.com/images/BITMAX.png"
+
+[[CURRENCIES]]
+code="PHEMEX"
+issuer="GDFOG5UPALNGF47JIWL2VKJUKBKUGPU2GBH72IDNRTNBMB44WZOV4XOM"
+status="live"
+display_decimals=4
+name="PHEMEX"
+fixed_number=30000000000
+desc="PHEMEX is issued by Stellarflies Team."
+conditions="Maximum supply of PHEMEX is 30B tokens only"
+image="https://Stellarflies.com/images/PHEMEX.png"
+
+[[CURRENCIES]]
+code="ZB"
+issuer="GDA6CD4KIQBZ4JCGKH6HK65WFTZCMUOLELOKJNK5G4KCUUTHRFR5DTJH"
+status="live"
+display_decimals=4
+name="ZB"
+fixed_number=30000000000
+desc="ZB is issued by Stellarflies Team."
+conditions="Maximum supply of ZB is 30B tokens only"
+image="https://Stellarflies.com/images/ZB.png"
+
+[[CURRENCIES]]
+code="BTCEX"
+issuer="GDZBDPKUA6NMFEJ7S37TTLCXAJIKZVTJBRR36M7XUE745DFNI544UMRO"
+status="live"
+display_decimals=4
+name="BTCEX"
+fixed_number=30000000000
+desc="BTCEX is issued by Stellarflies Team."
+conditions="Maximum supply of BTCEX is 30B tokens only"
+image="https://Stellarflies.com/images/BTCEX.png"
+
+[[CURRENCIES]]
+code="TOKOCRYPTO"
+issuer="GANTKCB4AHM5OQ3TLOTM2LBXF7RIZBHHBS4SRCALZ7PHRJF7PQ627DKM"
+status="live"
+display_decimals=4
+name="TOKOCRYPTO"
+fixed_number=30000000000
+desc="TOKOCRYPTO is issued by Stellarflies Team."
+conditions="Maximum supply of TOKOCRYPTO is 30B tokens only"
+image="https://Stellarflies.com/images/TOKOCRYPTO.png"
+
+[[CURRENCIES]]
+code="INDODAX"
+issuer="GCVAKVRR75PYIVRGXLURVBSI3B3MF4JTK7RXS4G2YJKDQIWWO6EKM6KX"
+status="live"
+display_decimals=4
+name="INDODAX"
+fixed_number=30000000000
+desc="INDODAX is issued by Stellarflies Team."
+conditions="Maximum supply of INDODAX is 30B tokens only"
+image="https://Stellarflies.com/images/INDODAX.png"
+
+[[CURRENCIES]]
+code="AAX"
+issuer="GBLRXVK74GANACD2Z73UMHNYCE4OUVVSQGMUQO25ACLN4AE53UHOREFD"
+status="live"
+display_decimals=4
+name="AAX"
+fixed_number=30000000000
+desc="AAX is issued by Stellarflies Team."
+conditions="Maximum supply of AAX is 30B tokens only"
+image="https://Stellarflies.com/images/AAX.png"
+
+[[CURRENCIES]]
+code="BIGONE"
+issuer="GCUACJB5YYNPRSLK45Q3EKJ3VJCAX3BBG2AA7J7UV665A6T4SCSFI32V"
+status="live"
+display_decimals=4
+name="BIGONE"
+fixed_number=30000000000
+desc="BIGONE is issued by Stellarflies Team."
+conditions="Maximum supply of BIGONE is 30B tokens only"
+image="https://Stellarflies.com/images/BIGONE.png"
+
+[[CURRENCIES]]
+code="WAZIRX"
+issuer="GCTGOJFFNYXREZAU4GCYTGBHEEYZYYW2OOZUZ5MWKXQCUNMMIRDHYWVR"
+status="live"
+display_decimals=4
+name="WAZIRX"
+fixed_number=30000000000
+desc="WAZIRX is issued by Stellarflies Team."
+conditions="Maximum supply of WAZIRX is 30B tokens only"
+image="https://Stellarflies.com/images/WAZIRX.png"
+
+[[CURRENCIES]]
+code="BITBANK"
+issuer="GDMPJ4ITUDREEMFYLNVIGESBKJQRE3UT4Q4PPXMUFY25I3CLMTDC7JUJ"
+status="live"
+display_decimals=4
+name="BITBANK"
+fixed_number=30000000000
+desc="BITBANK is issued by Stellarflies Team."
+conditions="Maximum supply of BITBANK is 30B tokens only"
+image="https://Stellarflies.com/images/BITBANK.png"
+
+[[CURRENCIES]]
+code="POLYX"
+issuer="GDNVHWX34J7K7H5X2ODCZ7RE3TRYVGUSTSOKBHENUVJ7E2AYOJFKBULB"
+status="live"
+display_decimals=4
+name="POLYX"
+fixed_number=30000000000
+desc="POLYX is issued by Stellarflies Team."
+conditions="Maximum supply of POLYX is 30B tokens only"
+image="https://Stellarflies.com/images/POLYX.png"
+
+[[CURRENCIES]]
+code="FMFW"
+issuer="GCFHM5DWJC5QAVINF4SIW6ZXNJJORZT22IZ4FSPKLTOF2BIYQIRQOY3W"
+status="live"
+display_decimals=4
+name="FMFW"
+fixed_number=30000000000
+desc="FMFW is issued by Stellarflies Team."
+conditions="Maximum supply of FMFW is 30B tokens only"
+image="https://Stellarflies.com/images/FMFW.png"
+
+[[CURRENCIES]]
+code="BITMART"
+issuer="GCY4DAEI2TDLGUTTSQ5UM2LB2FASLZURGZ7TB5633ELTRDWPGLPDTMSX"
+status="live"
+display_decimals=4
+name="BITMART"
+fixed_number=30000000000
+desc="BITMART is issued by Stellarflies Team."
+conditions="Maximum supply of BITMART is 30B tokens only"
+image="https://Stellarflies.com/images/BITMART.png"
+
+[[CURRENCIES]]
+code="DIGIFINEX"
+issuer="GCTJCZRJRCFQMOFI7KS7CA2723HS7WEFOIFLGFPWDCFMBMYXI7NFM7NH"
+status="live"
+display_decimals=4
+name="DIGIFINEX"
+fixed_number=30000000000
+desc="DIGIFINEX is issued by Stellarflies Team."
+conditions="Maximum supply of DIGIFINEX is 30B tokens only"
+image="https://Stellarflies.com/images/DIGIFINEX.png"
+
+[[CURRENCIES]]
+code="BITGET"
+issuer="GC5VNZDL55Q4MR2BNOLOPQ4YB4DGQE6DPTVMOQXDXJQRMZNNKF37U527"
+status="live"
+display_decimals=4
+name="BITGET"
+fixed_number=30000000000
+desc="BITGET is issued by Stellarflies Team."
+conditions="Maximum supply of BITGET is 30B tokens only"
+image="https://Stellarflies.com/images/BITGET.png"
+
+[[CURRENCIES]]
+code="COINSBIT"
+issuer="GAHO2P7HFBC3JXG47LCXHEFMESGFIA6YR3BVKJFZIGO5Z6IW2IGMSRVM"
+status="live"
+display_decimals=4
+name="COINSBIT"
+fixed_number=30000000000
+desc="COINSBIT is issued by Stellarflies Team."
+conditions="Maximum supply of COINSBIT is 30B tokens only"
+image="https://Stellarflies.com/images/COINSBIT.png"
+
+[[CURRENCIES]]
+code="MAXEXCHANGE"
+issuer="GBZUE7VC64KLO6AGTYMDHFBNFWUFXR2HITKDJSECNMXGWVQEQ6KT2QS2"
+status="live"
+display_decimals=4
+name="MAXEXCHANGE"
+fixed_number=30000000000
+desc="MAXEXCHANGE is issued by Stellarflies Team."
+conditions="Maximum supply of MAXEXCHANGE is 30B tokens only"
+image="https://Stellarflies.com/images/MAXEXCHANGE.png"
+
+[[CURRENCIES]]
+code="BITKUB"
+issuer="GALL4IRABFTIBUYWHQ4S6T44F4P3LQZMWKBLRKFTEVXKCD3LOSXJ5SKP"
+status="live"
+display_decimals=4
+name="BITKUB"
+fixed_number=30000000000
+desc="BITKUB is issued by Stellarflies Team."
+conditions="Maximum supply of BITKUB is 30B tokens only"
+image="https://Stellarflies.com/images/BITKUB.png"
+
+[[CURRENCIES]]
+code="BITVAVO"
+issuer="GB6A3PPS5SWDVGBSWYHFCSWJRKR3UIAI5EKWIJNDCQHLKNDSSVBJMHHB"
+status="live"
+display_decimals=4
+name="BITVAVO"
+fixed_number=30000000000
+desc="BITVAVO is issued by Stellarflies Team."
+conditions="Maximum supply of BITVAVO is 30B tokens only"
+image="https://Stellarflies.com/images/BITVAVO.png"
+
+[[CURRENCIES]]
+code="BITWELL"
+issuer="GBCQE4Q63TDHT4TFRW5U342OZXH4A57SEN5UTZDFTF5RRY2DPT6V5KQ6"
+status="live"
+display_decimals=4
+name="BITWELL"
+fixed_number=30000000000
+desc="BITWELL is issued by Stellarflies Team."
+conditions="Maximum supply of BITWELL is 30B tokens only"
+image="https://Stellarflies.com/images/BITWELL.png"
+
+[[CURRENCIES]]
+code="EXMO"
+issuer="GCOA26Y5GBVX7WL5SPJGENWTYETFWBO5DUAQ27PP6NBVSWXB3M3QZNXJ"
+status="live"
+display_decimals=4
+name="EXMO"
+fixed_number=30000000000
+desc="EXMO is issued by Stellarflies Team."
+conditions="Maximum supply of EXMO is 30B tokens only"
+image="https://Stellarflies.com/images/EXMO.png"
+
+[[CURRENCIES]]
+code="PARIBU"
+issuer="GDVUNQRA2JMBWMYHLH2S36Q6LICHEZQB4K3YMBU3XERWE4SFO7OW2J2O"
+status="live"
+display_decimals=4
+name="PARIBU"
+fixed_number=30000000000
+desc="PARIBU is issued by Stellarflies Team."
+conditions="Maximum supply of PARIBU is 30B tokens only"
+image="https://Stellarflies.com/images/PARIBU.png"
+
+[[CURRENCIES]]
+code="BITFRONT"
+issuer="GD4M3T4IDDPFHWSHTPFO7IF36C2SW4ZDKAFGUEDV4HMULT2UBY74GM6A"
+status="live"
+display_decimals=4
+name="BITFRONT"
+fixed_number=30000000000
+desc="BITFRONT is issued by Stellarflies Team."
+conditions="Maximum supply of BITFRONT is 30B tokens only"
+image="https://Stellarflies.com/images/BITFRONT.png"
+
+[[CURRENCIES]]
+code="LUNO"
+issuer="GATNUWM3JVGA6CEPSN5CQBC6UNLUAZ6SVHCSUCJZ6UUBXJLC2ALEHXGP"
+status="live"
+display_decimals=4
+name="LUNO"
+fixed_number=30000000000
+desc="LUNO is issued by Stellarflies Team."
+conditions="Maximum supply of LUNO is 30B tokens only"
+image="https://Stellarflies.com/images/LUNO.png"
+
+[[CURRENCIES]]
+code="BKEX"
+issuer="GCWJ5EBISY7YIO7RIPIU26M3EFHMJ7MAK2KVDUIU5G4VBDSWNF2J632E"
+status="live"
+display_decimals=4
+name="BKEX"
+fixed_number=30000000000
+desc="BKEX is issued by Stellarflies Team."
+conditions="Maximum supply of BKEX is 30B tokens only"
+image="https://Stellarflies.com/images/BKEX.png"
+
+[[CURRENCIES]]
+code="BITSO"
+issuer="GDYNY63M5PCLAE33U7QY6FCDOC5ZGTADPJ5GAUL6KZBJPHNKW66TXJPA"
+status="live"
+display_decimals=4
+name="BITSO"
+fixed_number=30000000000
+desc="BITSO is issued by Stellarflies Team."
+conditions="Maximum supply of BITSO is 30B tokens only"
+image="https://Stellarflies.com/images/BITSO.png"
+
+[[CURRENCIES]]
+code="INDOEX"
+issuer="GCVPRN6E6QSKGPL6IGR6BVX44MJRXZ6MAR3BKXMUUML4LXRFK4IHWCTX"
+status="live"
+display_decimals=4
+name="INDOEX"
+fixed_number=30000000000
+desc="INDOEX is issued by Stellarflies Team."
+conditions="Maximum supply of INDOEX is 30B tokens only"
+image="https://Stellarflies.com/images/INDOEX.png"
+
+[[CURRENCIES]]
+code="AEX"
+issuer="GA2N3OJHKO7JYJOFMO6GT7LJHLRFASULOHMDXW2B3Y2TRLOEZ5IHBJPA"
+status="live"
+display_decimals=4
+name="AEX"
+fixed_number=30000000000
+desc="AEX is issued by Stellarflies Team."
+conditions="Maximum supply of AEX is 30B tokens only"
+image="https://Stellarflies.com/images/AEX.png"
+
+[[CURRENCIES]]
+code="UNOCOIN"
+issuer="GAUEW23HHNNJZ3J6QECEEYHJBW2KXQ4SXFR7NLFR2VJ4T2HQGCTUFE2O"
+status="live"
+display_decimals=4
+name="UNOCOIN"
+fixed_number=30000000000
+desc="UNOCOIN is issued by Stellarflies Team."
+conditions="Maximum supply of UNOCOIN is 30B tokens only"
+image="https://Stellarflies.com/images/UNOCOIN.png"
+
+[[CURRENCIES]]
+code="ETOROX"
+issuer="GDXL7Y77QVVESO6IPGAXWX7G4K5BU74HMWFILSLRRSK7A3YMJJOL6WW3"
+status="live"
+display_decimals=4
+name="ETOROX"
+fixed_number=30000000000
+desc="ETOROX is issued by Stellarflies Team."
+conditions="Maximum supply of ETOROX is 30B tokens only"
+image="https://Stellarflies.com/images/ETOROX.png"
+
+[[CURRENCIES]]
+code="EQONEX"
+issuer="GA5ENDIAWWG64YYGAG35UGAASZRTCD2ONM744FNJY2TLE4RMOKSQKXN3"
+status="live"
+display_decimals=4
+name="EQONEX"
+fixed_number=30000000000
+desc="EQONEX is issued by Stellarflies Team."
+conditions="Maximum supply of EQONEX is 30B tokens only"
+image="https://Stellarflies.com/images/EQONEX.png"
+
+[[CURRENCIES]]
+code="BITEXEN"
+issuer="GCQURQS33H46XMAECCMGTDK2JZ6PMKMQ4SGXRMZ6HWXOYXS3I3PVQXWO"
+status="live"
+display_decimals=4
+name="BITEXEN"
+fixed_number=30000000000
+desc="BITEXEN is issued by Stellarflies Team."
+conditions="Maximum supply of BITEXEN is 30B tokens only"
+image="https://Stellarflies.com/images/BITEXEN.png"
+
+[[CURRENCIES]]
+code="COINFLEX"
+issuer="GBQKPLLKXDPHROYMZCCGKU5E3SQA6AJFBIAAHJIYYHYCYOBDROG6PJO2"
+status="live"
+display_decimals=4
+name="COINFLEX"
+fixed_number=30000000000
+desc="COINFLEX is issued by Stellarflies Team."
+conditions="Maximum supply of COINFLEX is 30B tokens only"
+image="https://Stellarflies.com/images/COINFLEX.png"
+
+[[CURRENCIES]]
+code="CROSSTOWER"
+issuer="GDGM6EB6C3WAVYECUB7QGCAE5FHBPCS6CK35GEV6CVGQ453KUOPY6QGA"
+status="live"
+display_decimals=4
+name="CROSSTOWER"
+fixed_number=30000000000
+desc="CROSSTOWER is issued by Stellarflies Team."
+conditions="Maximum supply of CROSSTOWER is 30B tokens only"
+image="https://Stellarflies.com/images/CROSSTOWER.png"
+
+[[CURRENCIES]]
+code="BINGX"
+issuer="GDDKMQHAM2RLYCXDGURG7O4X2MPA6VA7ONYHGKL7QSFI2EDACKEEDXXI"
+status="live"
+display_decimals=4
+name="BINGX"
+fixed_number=30000000000
+desc="BINGX is issued by Stellarflies Team."
+conditions="Maximum supply of BINGX is 30B tokens only"
+image="https://Stellarflies.com/images/BINGX.png"
+
+[[CURRENCIES]]
+code="CRYPTOLOGY"
+issuer="GDBV4ZYGRIB4XDORFEWGMGCABWGLMBBPHTWPGQKYRETDJLZIYA2GQYBX"
+status="live"
+display_decimals=4
+name="CRYPTOLOGY"
+fixed_number=30000000000
+desc="CRYPTOLOGY is issued by Stellarflies Team."
+conditions="Maximum supply of CRYPTOLOGY is 30B tokens only"
+image="https://Stellarflies.com/images/CRYPTOLOGY.png"
+
+[[CURRENCIES]]
+code="GOKUMARKET"
+issuer="GBONTCGQEDINO4DEDYQIKQEZ6S6UFE2JGNSE34VHNOXCCFHXB6RIGZLH"
+status="live"
+display_decimals=4
+name="GOKUMARKET"
+fixed_number=30000000000
+desc="GOKUMARKET is issued by Stellarflies Team."
+conditions="Maximum supply of GOKUMARKET is 30B tokens only"
+image="https://Stellarflies.com/images/GOKUMARKET.png"
+
+[[CURRENCIES]]
+code="COINZOOM"
+issuer="GC56GIWDA55U4U3GSJTZDSNOX3F4GHT7M3YYFNDGPVN45DSEWZMUK3ZS"
+status="live"
+display_decimals=4
+name="COINZOOM"
+fixed_number=30000000000
+desc="COINZOOM is issued by Stellarflies Team."
+conditions="Maximum supply of COINZOOM is 30B tokens only"
+image="https://Stellarflies.com/images/COINZOOM.png"
+
+[[CURRENCIES]]
+code="BANKCEX"
+issuer="GABZXMYHHZEFHTX5TVMMDVRYCLRPHOVOXR4IJN2NMS32CIW4Y5JH7GNS"
+status="live"
+display_decimals=4
+name="BANKCEX"
+fixed_number=30000000000
+desc="BANKCEX is issued by Stellarflies Team."
+conditions="Maximum supply of BANKCEX is 30B tokens only"
+image="https://Stellarflies.com/images/BANKCEX.png"
+
+[[CURRENCIES]]
+code="BITFOREX"
+issuer="GC4Y6C4VBTYKHQTC3MXZCYSB46X2VKLAD3OF676DYFNFF2QX427TQAYY"
+status="live"
+display_decimals=4
+name="BITFOREX"
+fixed_number=30000000000
+desc="BITFOREX is issued by Stellarflies Team."
+conditions="Maximum supply of BITFOREX is 30B tokens only"
+image="https://Stellarflies.com/images/BITFOREX.png"
+
+[[CURRENCIES]]
+code="DEXTRADE"
+issuer="GAJKBECQJETKLDX4QDL2HRGWWOKKJXOUIU6W3PJTSVLXI4ZVXLRZYOHL"
+status="live"
+display_decimals=4
+name="DEXTRADE"
+fixed_number=30000000000
+desc="DEXTRADE is issued by Stellarflies Team."
+conditions="Maximum supply of DEXTRADE is 30B tokens only"
+image="https://Stellarflies.com/images/DEXTRADE.png"
+
+[[CURRENCIES]]
+code="BTCMARKETS"
+issuer="GBHKIZFHMS76WUL4FPVUSAYDQM4ESO2ULBS46556D2NNUZTU57ZL6FRD"
+status="live"
+display_decimals=4
+name="BTCMARKETS"
+fixed_number=30000000000
+desc="BTCMARKETS is issued by Stellarflies Team."
+conditions="Maximum supply of BTCMARKETS is 30B tokens only"
+image="https://Stellarflies.com/images/BTCMARKETS.png"
+
+[[CURRENCIES]]
+code="BIT2ME"
+issuer="GDSIAFTBG5DO3DSPO3GCP7WCVZJIU627AATEG2JIEHCQ3NBR33SER3Q5"
+status="live"
+display_decimals=4
+name="BIT2ME"
+fixed_number=30000000000
+desc="BIT2ME is issued by Stellarflies Team."
+conditions="Maximum supply of BIT2ME is 30B tokens only"
+image="https://Stellarflies.com/images/BIT2ME.png"
+
+[[CURRENCIES]]
+code="HITBTC"
+issuer="GDNGKRMRGCF5F2ZS5U7QE7XEQKJ4FSIO376HOQMOTRA3WJXCZGD4GQ24"
+status="live"
+display_decimals=4
+name="HITBTC"
+fixed_number=30000000000
+desc="HITBTC is issued by Stellarflies Team."
+conditions="Maximum supply of HITBTC is 30B tokens only"
+image="https://Stellarflies.com/images/HITBTC.png"
+
+[[CURRENCIES]]
+code="HOTBIT"
+issuer="GCKHVURSJDPJRH3CTDPMEAJXH42NQAV3RVA2GNPID3XDLPDCVNZUU33U"
+status="live"
+display_decimals=4
+name="HOTBIT"
+fixed_number=30000000000
+desc="HOTBIT is issued by Stellarflies Team."
+conditions="Maximum supply of HOTBIT is 30B tokens only"
+image="https://Stellarflies.com/images/HOTBIT.png"
+
+[[CURRENCIES]]
+code="PARITEX"
+issuer="GBITPOTCN6QAA7BH5C3VVLHAU2VOVKSTN6F73OSD5SP3FUOGFI6IFZ4N"
+status="live"
+display_decimals=4
+name="PARITEX"
+fixed_number=30000000000
+desc="PARITEX is issued by Stellarflies Team."
+conditions="Maximum supply of PARITEX is 30B tokens only"
+image="https://Stellarflies.com/images/PARITEX.png"
+
+[[CURRENCIES]]
+code="BIBOX"
+issuer="GAZD73TAIKZ7TXHVOAY3L5QOBATUF3SZ2ZOX7CSCG3RNKTKXEPLU3KUX"
+status="live"
+display_decimals=4
+name="BIBOX"
+fixed_number=30000000000
+desc="BIBOX is issued by Stellarflies Team."
+conditions="Maximum supply of BIBOX is 30B tokens only"
+image="https://Stellarflies.com/images/BIBOX.png"
+
+[[CURRENCIES]]
+code="COINDEAL"
+issuer="GAMTRO7YA6P2PXYOSBZWW3344YZ4HQXBARQZ6G3JOYPKK4XX3QV6V2U3"
+status="live"
+display_decimals=4
+name="COINDEAL"
+fixed_number=30000000000
+desc="COINDEAL is issued by Stellarflies Team."
+conditions="Maximum supply of COINDEAL is 30B tokens only"
+image="https://Stellarflies.com/images/COINDEAL.png"
+
+[[CURRENCIES]]
+code="NOVADAX"
+issuer="GDGOQMFIOZTHZJR5KAEGSK32SRWL5QISUDUUGHFDXKHXWKIMFEVFBSIK"
+status="live"
+display_decimals=4
+name="NOVADAX"
+fixed_number=30000000000
+desc="NOVADAX is issued by Stellarflies Team."
+conditions="Maximum supply of NOVADAX is 30B tokens only"
+image="https://Stellarflies.com/images/NOVADAX.png"
+
+[[CURRENCIES]]
+code="BILLANCE"
+issuer="GCLUENC2U4LNUTMYGTKO4E46CF5UBP7IW36FTCTLA2VYX4I3WM5WQSWD"
+status="live"
+display_decimals=4
+name="BILLANCE"
+fixed_number=30000000000
+desc="BILLANCE is issued by Stellarflies Team."
+conditions="Maximum supply of BILLANCE is 30B tokens only"
+image="https://Stellarflies.com/images/BILLANCE.png"
